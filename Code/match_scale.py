@@ -1,3 +1,5 @@
+# Code from https://github.com/bnsreenu/python_for_microscopists/blob/05bf7ea369bf19ef8c5b1d3f9b78ebd125db763c/Tips_Tricks_25_locating_objects_in_large_images_via_template_matching.py
+
 import cv2
 import numpy as np
 import imutils

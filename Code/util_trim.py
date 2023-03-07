@@ -134,19 +134,6 @@ def trans_type(sort_digit):
         sort_type.append(types)
     return sort_type
 
-def trans_paste(sort_name, deck_code):
-    deck_list = list(sort_name)
-    
-    start = -30
-    while len(deck_list)< 90:
-        deck_list.insert(start, "")
-        start = start-1
-    
-    deck_list.insert(0, deck_code)
-
-    return deck_list
-
-
 def find_consecutive_bounds(lst, val):
     bounds = []
     start = None
@@ -162,7 +149,7 @@ def find_consecutive_bounds(lst, val):
         bounds.append((start, len(lst)-1))
     return bounds
 
-def trans_paste_v(sort_name,sort_type,deck_code):
+def trans_paste(sort_name,sort_type,deck_code):
     deck_list = list(sort_name)
     token_ext = '엑스트라'
     if token_ext in sort_type:
