@@ -70,3 +70,36 @@ def match_scale_mp(dir_card, dir_deck, deck_width, threshold):
         real_width = None
     
     return real_width
+
+
+def match_scale_mp_v(img_card, img_deck, card_min, card_max, step, threshold):
+
+    best_match = None
+    for scale in np.linspace(card_min, card_max, step):
+        resized_img_card = imutils.resize(img_card, width = int(scale))    
+        res = cv2.matchTemplate(img_deck, resized_img_card, cv2.TM_SQDIFF) #min_val, max_val, min_loc, max_loc
+        min_val, _, min_loc, _ = cv2.minMaxLoc(res)
+        if best_match is None or min_val <= best_match[0]:
+            ideal_scale=scale 
+            best_match = [min_val, min_loc, ideal_scale]
+
+    card_width = int(ideal_scale)
+
+    # img_card = cv2.imread(dir_card, 0)
+    img_card = imutils.resize(img_card, width = card_width)
+    res = cv2.matchTemplate(img_deck, img_card, cv2.TM_CCOEFF_NORMED)
+    loc=np.where(res >= threshold)
+
+    lengths = [len(elem) for elem in loc]
+
+    if all(length == 0 for length in lengths):
+        actual_length = 0
+    else:
+        actual_length = max(lengths)
+
+    if actual_length >0 :
+        real_width = card_width 
+    else :
+        real_width = None
+    
+    return real_width
