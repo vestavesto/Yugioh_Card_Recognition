@@ -36,16 +36,14 @@ def sort_pt(pts, sort_round):
 
 #######################################################
 
-dir_full_db = f'{dir_main}/Data/full_db.txt'
-df = pd.read_csv(dir_full_db, sep='\t')
-
+dir_full_db = f'{dir_main}/Data/YGO DB - export_full_db.csv'
+df = pd.read_csv(dir_full_db)
 def fill_na_with_code(df):
     for col in df.columns:
         if col != 'Code' and df[col].isnull().any():
             df[col].fillna(df['Code'], inplace=True)
     return df
 fill_na_with_code(df)
-
 db_digit = np.asarray(df["Digit"])
 db_name_ko = np.asarray(df["Name_KO"])
 db_type = np.asarray(df["Type"])
