@@ -1,5 +1,4 @@
 # Yugioh_Card_Recognition
-recognizing yugioh cards using template matching
 
 Using CV2 template matching to identify Yugioh card images into card names
 
