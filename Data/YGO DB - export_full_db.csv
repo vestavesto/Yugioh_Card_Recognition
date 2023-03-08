@@ -141,7 +141,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4112,54615781,Spirit of the Winds,,風の精霊,かぜのせいれい,,메인,일반,FALSE,,,0,FALSE
 4113,80600490,Kageningen,,シャドウ・ファイター,シャドウ・ファイター,,메인,일반,FALSE,,,0,FALSE
 4114,27094595,Graveyard and the Hand of Invitation,,手招きする墓場,てまねきするはかば,,메인,일반,FALSE,,,0,FALSE
-4115,53493204,Goddess with the Third Eye,심안의 여신,心眼の女神,しんがんのめがみ,,메인,효과,FALSE,,,1,TRUE
+4115,53493204,Goddess with the Third Eye,심안의 여신,心眼の女神,しんがんのめがみ,,메인,효과,FALSE,범용,,1,TRUE
 4116,89987208,Hero of the East,,東方の英雄,とうほうのえいゆう,,메인,일반,FALSE,,,0,FALSE
 4117,16972957,Doma The Angel of Silence,죽음의 침묵천사 도마,死の沈黙の天使 ドマ,しのちんもくのてんし　ドマ,,메인,일반,FALSE,,,0,FALSE
 4118,52367652,That Which Feeds on Life,,命を食する者,いのちをしょくするもの,,메인,일반,FALSE,,,0,FALSE
@@ -262,7 +262,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4233,46718686,Hitodenchak,,ヒトデンチャク,ヒトデンチャク,,메인,일반,FALSE,,,0,FALSE
 4234,17733394,Wood Remains,,森の屍,もりのしかばね,,메인,일반,FALSE,,,0,FALSE
 4235,8783685,Hourglass of Life,,命の砂時計,いのちのすなどけい,,메인,일반,FALSE,,,0,FALSE
-4236,80516007,Rare Fish,레어 피시,レア・フィッシュ,レア・フィッシュ,,엑스트라,융합,FALSE,기타,융합,2,TRUE
+4236,80516007,Rare Fish,레어 피시,レア・フィッシュ,レア・フィッシュ,,엑스트라,융합,FALSE,준범용,융합,2,TRUE
 4237,17511156,Wood Clown,,ウッド・ジョーカー,ウッド・ジョーカー,,메인,일반,FALSE,,,0,FALSE
 4238,43905751,Madjinn Gunn,,魔人銃,マジンガン,,메인,일반,FALSE,,,0,FALSE
 4239,89494469,Dark Titan of Terror,악몽의 악흑 마신,暗黒魔神 ナイトメア,あんこくまじん　ナイトメア,,메인,일반,FALSE,,,0,FALSE
@@ -424,7 +424,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4392,52040216,Harpie's Pet Dragon,해피의 애완 드래곤,ハーピィズペット竜,ハーピィズペットドラゴン,,메인,효과,FALSE,전용,해피,0,FALSE
 4393,98049915,Mystic Lamp,마법의 램프,魔法のランプ,まほうのランプ,,메인,효과,FALSE,,,0,FALSE
 4394,24433920,Pendulum Machine,칼날 고문 기계,振り子刃の拷問機械,ふりこやいばのごうもんきかい,,메인,일반,FALSE,,,0,FALSE
-4395,51828629,Giltia the D. Knight,마법 기사 길티어,魔導騎士ギルティア,まどうきしギルティア,,엑스트라,융합,FALSE,기타,융합,1,TRUE
+4395,51828629,Giltia the D. Knight,마법 기사 길티어,魔導騎士ギルティア,まどうきしギルティア,,엑스트라,융합,FALSE,준범용,융합,1,TRUE
 4396,87322377,Launcher Spider,TM－1 런처 스파이더,TM－１ランチャースパイダー,ＴＭ－１ランチャースパイダー,,메인,일반,FALSE,,,0,FALSE
 4397,24311372,Zoa,데블 조아,デビルゾア,デビルゾア,,메인,일반,FALSE,,,0,FALSE
 4398,50705071,Metalzoa,메탈 데블 조아,メタル・デビルゾア,メタル・デビルゾア,,메인,효과,FALSE,,,0,FALSE
@@ -530,7 +530,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4498,67629977,Hoshiningen,슈퍼 스타,スーパースター,スーパースター,,메인,효과,FALSE,,,0,FALSE
 4499,93013676,Maha Vailo,마하 바일로,マハー・ヴァイロ,マハー・ヴァイロ,,메인,효과,FALSE,,,0,FALSE
 4500,29402771,Rainbow Marine Mermaid,,レインボー・マリン・マーメイド,レインボー・マリン・マーメイド,,메인,일반,FALSE,,,0,FALSE
-4501,56907389,Musician King,음악의 제왕,音楽家の帝王,ミュージシャン・キング,,엑스트라,융합,FALSE,기타,융합,3,TRUE
+4501,56907389,Musician King,음악의 제왕,音楽家の帝王,ミュージシャン・キング,,엑스트라,융합,FALSE,준범용,융합,3,TRUE
 4502,92391084,Wilmee,,ウィルミー,ウィルミー,,메인,일반,FALSE,,,0,FALSE
 4503,29380133,Yado Karu,집게 카루,ヤドカリュー,ヤドカリュー,,메인,효과,FALSE,,,0,FALSE
 4504,55784832,Morinphen,모린팬,モリンフェン,モリンフェン,,메인,일반,FALSE,,,0,FALSE
@@ -543,7 +543,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4511,80234301,Prisman,,プリズマン,プリズマン,,메인,일반,FALSE,,,0,FALSE
 4512,16229315,Gale Dogra,게일 도그라,ゲール・ドグラ,ゲール・ドグラ,,메인,효과,FALSE,준범용,범용,64,TRUE
 4513,53713014,Crazy Fish,,クレイジー・フィッシュ,クレイジー・フィッシュ,,메인,일반,FALSE,,,0,FALSE
-4514,89112729,Cyber Saurus,메카 사우루스,メカ・ザウルス,メカ・ザウルス,,엑스트라,융합,FALSE,기타,융합,1,TRUE
+4514,89112729,Cyber Saurus,메카 사우루스,メカ・ザウルス,メカ・ザウルス,,엑스트라,융합,FALSE,준범용,융합,1,TRUE
 4515,16507828,Bracchio-raidus,,ブラキオレイドス,ブラキオレイドス,,엑스트라,융합,FALSE,전용,없음,0,FALSE
 4516,42591472,Laughing Flower,,笑う花,わらうハナ,,메인,일반,FALSE,,,0,FALSE
 4517,84990171,Bean Soldier,,ビーン・ソルジャー,ビーン・ソルジャー,,메인,일반,FALSE,,,0,FALSE
@@ -569,7 +569,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4537,32751480,Mystical Sand,,砂の魔女,サンド・ウィッチ,,엑스트라,융합,FALSE,전용,없음,0,FALSE
 4538,69140098,Gemini Elf,쌍둥이 자매 엘프,ヂェミナイ・エルフ,ヂェミナイ・エルフ,,메인,일반,FALSE,기타,,0,FALSE
 4538,69140099,Gemini Elf,쌍둥이 자매 엘프,ヂェミナイ・エルフ,ヂェミナイ・エルフ,,메인,일반,FALSE,기타,,0,FALSE
-4539,95144193,Kwagar Hercules,헤라클레스 투구 벌레,クワガー・ヘラクレス,クワガー・ヘラクレス,,엑스트라,융합,FALSE,기타,융합,2,TRUE
+4539,95144193,Kwagar Hercules,헤라클레스 투구 벌레,クワガー・ヘラクレス,クワガー・ヘラクレス,,엑스트라,융합,FALSE,준범용,융합,2,TRUE
 4540,32539892,Minar,이비,イビー,イビー,,메인,효과,FALSE,,,0,FALSE
 4541,68928540,Kamakiriman,,カマキラー,カマキラー,,메인,일반,FALSE,,,0,FALSE
 4542,94412545,Mechaleon,,メカレオン,メカレオン,,메인,일반,FALSE,,,0,FALSE
@@ -589,7 +589,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4556,94022093,Behegon,,ベヒゴン,ベヒゴン,,메인,일반,FALSE,,,0,FALSE
 4557,21417692,Dark Elf,다크 엘프,ダーク・エルフ,ダーク・エルフ,,메인,효과,FALSE,전용,다크,0,FALSE
 4558,57405307,"Winged Dragon, Guardian of the Fortress #2",,ワイバーン,ワイバーン,,메인,일반,FALSE,,,0,FALSE
-4559,93900406,Mushroom Man #2,머슈맨,マタンゴ,マタンゴ,,메인,효과,FALSE,,범용,1,TRUE
+4559,93900406,Mushroom Man #2,머슈맨,マタンゴ,マタンゴ,,메인,효과,FALSE,전용,범용,1,TRUE
 4560,20394040,Lava Battleguard,바바리안 1호,バーバリアン１号,バーバリアン１ごう,,메인,효과,FALSE,전용,바바리안,0,FALSE
 4561,56789759,Tyhone #2,타이혼 #2,レッド・ドラゴン,レッド・ドラゴン,,메인,일반,FALSE,,,0,FALSE
 4562,93788854,The Wandering Doomed,,さまよえる亡者,さまよえるもうじゃ,,메인,일반,FALSE,,,0,FALSE
@@ -693,8 +693,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4660,32268901,Salamandra,사라만도라,サラマンドラ,サラマンドラ,,메인,마법,FALSE,,,0,FALSE
 4662,95051344,Eternal Rest,성불,成仏,じょうぶつ,,메인,마법,FALSE,,,0,FALSE
 4663,22046459,Megamorph,거대화,巨大化,きょだいか,,메인,마법,FALSE,,,0,TRUE
-4664,68540059,Metalmorph,메탈화 마법반사장갑,メタル化・魔法反射装甲,メタルか・まほうはんしゃそうこう,,메인,함정,FALSE,,범용,1,TRUE
-4664,68540058,Metalmorph,메탈화 마법반사장갑,メタル化・魔法反射装甲,メタルか・まほうはんしゃそうこう,,메인,함정,FALSE,,범용,1,TRUE
+4664,68540059,Metalmorph,메탈화 마법반사장갑,メタル化・魔法反射装甲,メタルか・まほうはんしゃそうこう,,메인,함정,FALSE,준범용,범용,1,TRUE
+4664,68540058,Metalmorph,메탈화 마법반사장갑,メタル化・魔法反射装甲,メタルか・まほうはんしゃそうこう,,메인,함정,FALSE,준범용,범용,1,TRUE
 4666,21323861,Acid Rain,산성 폭풍,酸の嵐,さんのあらし,,메인,마법,FALSE,,,0,FALSE
 4667,57728570,Crush Card Virus,죽음의 덱 파괴 바이러스,死のデッキ破壊ウイルス,しのデッキはかいウイルス,,메인,함정,FALSE,범용,범용,2,TRUE
 4667,57728571,Crush Card Virus,죽음의 덱 파괴 바이러스,死のデッキ破壊ウイルス,しのデッキはかいウイルス,,메인,함정,FALSE,범용,범용,2,TRUE
@@ -876,7 +876,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4860,4031928,Change of Heart,마음의 변화,心変わり,こころがわり,제한,메인,마법,FALSE,준범용,범용,56,TRUE
 4861,41420027,Solemn Judgment,신의 심판,神の宣告,かみのせんこく,,메인,함정,FALSE,범용,범용,3626,TRUE
 4862,77414722,Magic Jammer,매직 재머,マジック・ジャマー,マジック・ジャマー,,메인,함정,FALSE,범용,범용,0,TRUE
-4863,3819470,Seven Tools of the Bandit,도적의 7가지 도구,盗賊の七つ道具,とうぞくのななつどうぐ,,메인,함정,FALSE,,,1,TRUE
+4863,3819470,Seven Tools of the Bandit,도적의 7가지 도구,盗賊の七つ道具,とうぞくのななつどうぐ,,메인,함정,FALSE,범용,,1,TRUE
 4864,98069388,Horn of Heaven,승천의 뿔피리,昇天の角笛,しょうてんのつのぶえ,,메인,함정,FALSE,범용,범용,0,TRUE
 4865,24068492,Just Desserts,자업자득,自業自得,じごうじとく,,메인,함정,FALSE,,,0,TRUE
 4866,51452091,Royal Decree,왕궁의 포고령,王宮のお触れ,おうきゅうのおふれ,,메인,함정,FALSE,범용,범용,60,TRUE
@@ -898,7 +898,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4883,13723605,Man-Eating Treasure Chest,식인 보석함,人喰い宝石箱,ひとくいほうせきばこ,,메인,일반,FALSE,,,0,FALSE
 4884,49218300,Sorcerer of the Doomed,죽음의 마법사,デス・ソーサラー,デス・ソーサラー,,메인,일반,FALSE,,,0,FALSE
 4885,85602018,Last Will,유언장,遺言状,ゆいごんじょう,금지,메인,마법,FALSE,준범용,,0,FALSE
-4886,12607053,Waboku,화목의 사자,和睦の使者,わぼくのししゃ,,메인,함정,FALSE,,,5,TRUE
+4886,12607053,Waboku,화목의 사자,和睦の使者,わぼくのししゃ,,메인,함정,FALSE,범용,,5,TRUE
 4887,44095762,Mirror Force,성스러운 방어막 거울의 힘,聖なるバリア －ミラーフォース－,せいなるバリア　－ミラーフォース－,,메인,함정,FALSE,범용,범용,275,TRUE
 4888,20436034,Ring of Magnetism,자력의 반지,磁力の指輪,じりょくのゆびわ,,메인,마법,FALSE,,,0,FALSE
 4889,56830749,Share the Pain,고통 분담,痛み分け,いたみわけ,,메인,마법,FALSE,,,0,FALSE
@@ -909,7 +909,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4894,12470447,Curse of Fiend,사악한 의식,邪悪な儀式,じゃあくなぎしき,,메인,마법,FALSE,,,0,FALSE
 4895,70368879,Upstart Goblin,갑부 고블린,成金ゴブリン,なりきんゴブリン,,메인,마법,FALSE,준범용,범용,680,TRUE
 4896,82003859,Toll,통행세,通行税,つうこうぜい,,메인,마법,FALSE,,,0,FALSE
-4897,18591904,Final Destiny,마지막 전쟁,最終戦争,さいしゅうせんそう,,메인,마법,FALSE,,범용,2,FALSE
+4897,18591904,Final Destiny,마지막 전쟁,最終戦争,さいしゅうせんそう,,메인,마법,FALSE,준범용,범용,2,FALSE
 4898,45986603,Snatch Steal,강탈,強奪,ごうだつ,금지,메인,마법,FALSE,준범용,,0,FALSE
 4899,81380218,Chorus of Sanctuary,성역의 노랫소리,聖域の歌声,せいいきのうたごえ,,메인,마법,FALSE,,,0,FALSE
 4900,17375316,Confiscation,압수,押収,おうしゅう,금지,메인,마법,FALSE,준범용,,0,FALSE
@@ -950,7 +950,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 4935,45778932,Rising Air Current,데저트 스톰,デザートストーム,デザートストーム,,메인,마법,FALSE,,,0,FALSE
 4936,81777047,Luminous Spark,샤인 스파크,シャインスパーク,シャインスパーク,,메인,마법,FALSE,,,0,FALSE
 4937,18161786,Mystic Plasma Zone,다크 존,ダークゾーン,ダークゾーン,,메인,마법,FALSE,전용,다크,0,FALSE
-4938,44656491,Messenger of Peace,평화의 사자,平和の使者,へいわのししゃ,,메인,마법,FALSE,,범용,35,TRUE
+4938,44656491,Messenger of Peace,평화의 사자,平和の使者,へいわのししゃ,,메인,마법,FALSE,범용,범용,35,TRUE
 4939,37580756,Michizure,동반,道連れ,みちづれ,,메인,함정,FALSE,,,0,FALSE
 4940,73079365,Gust,돌풍,突風,とっぷう,,메인,함정,FALSE,,,0,FALSE
 4941,473469,Driving Snow,폭설,猛吹雪,もうふぶき,,메인,함정,FALSE,,,0,FALSE
@@ -1115,7 +1115,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5131,96965364,Insect Imitation,부화,孵化,ふか,,메인,마법,FALSE,,,0,FALSE
 5132,22959079,Dimensionhole,웜홀,ワーム・ホール,ワーム・ホール,,메인,마법,FALSE,,,0,FALSE
 5133,59344077,Magic Drain,매직 드레인,マジック・ドレイン,マジック・ドレイン,,메인,함정,FALSE,,,0,FALSE
-5134,85742772,Gravity Bind,그레비티 바인드,グラヴィティ・バインド－超重力の網－,グラヴィティ・バインド－ちょうじゅうりょくのあみ－,,메인,함정,FALSE,,,3,TRUE
+5134,85742772,Gravity Bind,그레비티 바인드,グラヴィティ・バインド－超重力の網－,グラヴィティ・バインド－ちょうじゅうりょくのあみ－,,메인,함정,FALSE,범용,,3,TRUE
 5135,58621589,Shadow of Eyes,유혹의 섀도우,誘惑のシャドウ,ゆうわくのシャドウ,,메인,함정,FALSE,,,0,FALSE
 5136,84620194,Girochin Kuwagata,기요틴 투구벌레,ギロチン・クワガタ,ギロチン・クワガタ,,메인,일반,FALSE,,,0,FALSE
 5137,21015833,Hayabusa Knight,매의 기사,隼の騎士,はやぶさのきし,,메인,효과,FALSE,,,0,FALSE
@@ -1147,7 +1147,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5196,28358902,Crimson Sentry,크림슨 여수호병,紅蓮の女守護兵,ぐれんのおんなしゅごへい,,메인,효과,FALSE,,,0,FALSE
 5197,64752646,Fire Princess,화염의 프린세스,ビッグバンガール,ビッグバンガール,,메인,효과,FALSE,,,0,FALSE
 5198,90147755,Lady Assailant of Flames,화염의 여암살자,炎の女暗殺者,ほのおのおんなあんさつしゃ,,메인,효과,FALSE,,,0,FALSE
-5199,27132350,Fire Sorcerer,화염의 마녀,ファイヤーソーサラー,ファイヤーソーサラー,,메인,효과,FALSE,,범용,3,TRUE
+5199,27132350,Fire Sorcerer,화염의 마녀,ファイヤーソーサラー,ファイヤーソーサラー,,메인,효과,FALSE,준범용,범용,3,TRUE
 5200,53530069,Spirit of the Breeze,산들바람의 정령,そよ風の精霊,そよかぜのせいれい,,메인,효과,FALSE,,,0,FALSE
 5201,90925163,Dancing Fairy,춤추는 요정,踊る妖精,ダンシングフェアリー,,메인,효과,FALSE,,,0,FALSE
 5202,22419772,Fairy Guardian,픽시 가디언,ピクシーガーディアン,ピクシーガーディアン,,메인,효과,FALSE,,,0,FALSE
@@ -1161,7 +1161,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5210,83968380,Jar of Greed,욕망의 단지,強欲な瓶,ごうよくなかめ,,메인,함정,FALSE,,,0,TRUE
 5211,10352095,Scroll of Bewitchment,현혹의 두루마리,幻惑の巻物,げんわくのまきもの,,메인,마법,FALSE,,,0,FALSE
 5212,56747793,United We Stand,단결의 힘,団結の力,だんけつのちから,,메인,마법,FALSE,,,0,TRUE
-5213,83746708,Mage Power,마도사의 힘,魔導師の力,まどうしのちから,,메인,마법,FALSE,,,1,TRUE
+5213,83746708,Mage Power,마도사의 힘,魔導師の力,まどうしのちから,,메인,마법,FALSE,범용,,1,TRUE
 5214,19230408,Offerings to the Doomed,죽은 자를 위한 공물,死者への供物,ししゃへのくもつ,,메인,마법,FALSE,,,0,FALSE
 5216,33767325,Meteor of Destruction,데스 메테오,デス・メテオ,デス・メテオ,,메인,마법,FALSE,,,0,FALSE
 5217,69162969,Lightning Vortex,라이트닝 보텍스,ライトニング・ボルテックス,ライトニング・ボルテックス,,메인,마법,FALSE,,,0,FALSE
@@ -1421,10 +1421,10 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5498,63995093,Machine Duplication,기계 복제술,機械複製術,きかいふくせいじゅつ,,메인,마법,FALSE,준범용,사이버,9,TRUE
 5499,90980792,Dark Jeroid,다크 제로이드,ダークジェロイド,ダークジェロイド,,메인,효과,FALSE,전용,다크,0,FALSE
 5501,62873545,Dragon Master Knight,궁극룡 기사,究極竜騎士,マスター・オブ・ドラゴンナイト,,엑스트라,융합,FALSE,전용,백룡,0,TRUE
-5502,99267150,Five-Headed Dragon,F·G·D,F・G・D,ファイブ・ゴッド・ドラゴン,,엑스트라,융합,FALSE,기타,융합,2,TRUE
+5502,99267150,Five-Headed Dragon,F·G·D,F・G・D,ファイブ・ゴッド・ドラゴン,,엑스트라,융합,FALSE,준범용,융합,2,TRUE
 5503,25652259,Queen's Knight,퀸즈 나이트,クィーンズ・ナイト,クィーンズ・ナイト,,메인,일반,FALSE,전용,트럼프,0,FALSE
 5504,62651957,X-Head Cannon,X－헤드 캐논,X－ヘッド・キャノン,エックス－ヘッド・キャノン,,메인,일반,FALSE,전용,ABCXYZ,0,FALSE
-5505,98045062,Enemy Controller,에너미 컨트롤러,エネミーコントローラー,エネミーコントローラー,,메인,마법,FALSE,,범용,31,TRUE
+5505,98045062,Enemy Controller,에너미 컨트롤러,エネミーコントローラー,エネミーコントローラー,,메인,마법,FALSE,범용,범용,31,TRUE
 5506,24530661,Master Kyonshee,달인 강시,達人キョンシー,たつじんキョンシー,,메인,일반,FALSE,,,0,FALSE
 5507,51934376,Kabazauls,재채기 하마사우루스,大くしゃみのカバザウルス,おおくしゃみのカバザウルス,,메인,일반,FALSE,,,0,FALSE
 5508,97923414,Inpachi,대목인18,大木人１８,だいもくじんインパチ,,메인,일반,FALSE,,,0,FALSE
@@ -1505,7 +1505,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5592,11743119,Union Rider,유니온 라이더,ユニオン・ライダー,ユニオン・ライダー,,메인,효과,FALSE,전용,유니온,0,FALSE
 5593,48148828,D.D. Crazy Beast,이차원의 야수,異次元の狂獣,いじげんのきょうじゅう,,메인,효과,FALSE,전용,이차원,0,FALSE
 5594,84636823,Spell Canceller,매직 캔슬러,マジック・キャンセラー,マジック・キャンセラー,,메인,효과,FALSE,전용,범용,23,TRUE
-5595,11021521,Neko Mane King,고양이 마네킹,ネコマネキング,ネコマネキング,,메인,효과,FALSE,,범용,6,TRUE
+5595,11021521,Neko Mane King,고양이 마네킹,ネコマネキング,ネコマネキング,,메인,효과,FALSE,준범용,범용,6,TRUE
 5596,47025270,Helping Robo for Combat,백병전형 심부름 로봇,白兵戦型お手伝いロボ,はくへいせんがたおてつだいロボ,,메인,효과,FALSE,,,0,FALSE
 5597,73414375,Dimension Jar,디멘션 포드,ディメンション・ポッド,ディメンション・ポッド,,메인,효과,FALSE,,,0,FALSE
 5598,10809984,Great Phantom Thief,세기의 대도둑,世紀の大泥棒,せいきのおおどろぼう,,메인,효과,FALSE,,,0,FALSE
@@ -1516,8 +1516,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5603,72575145,Demotion,강격처분,降格処分,こうかくしょぶん,,메인,마법,FALSE,,,0,FALSE
 5604,8964854,Combination Attack,콤비네이션 어택,コンビネーション・アタック,コンビネーション・アタック,,메인,마법,FALSE,,,0,FALSE
 5605,35059553,Kaiser Colosseum,카이저 콜로세움,カイザーコロシアム,カイザーコロシアム,,메인,마법,FALSE,준범용,범용,14,TRUE
-5606,71453557,Autonomous Action Unit,자율행동 유닛,自律行動ユニット,じりつこうどうユニット,,메인,마법,FALSE,,,1,TRUE
-5607,8842266,Poison of the Old Man,노인의 맹독약,ご隠居の猛毒薬,ごいんきょのもうどくやく,,메인,마법,FALSE,,범용,2,TRUE
+5606,71453557,Autonomous Action Unit,자율행동 유닛,自律行動ユニット,じりつこうどうユニット,,메인,마법,FALSE,범용,,1,TRUE
+5607,8842266,Poison of the Old Man,노인의 맹독약,ご隠居の猛毒薬,ごいんきょのもうどくやく,,메인,마법,FALSE,범용,범용,2,TRUE
 5608,34236961,Ante,앤티 승부,アンティ勝負,アンティしょうぶ,,메인,마법,FALSE,,,0,FALSE
 5609,70231910,Dark Core,블랙 코어,ブラック・コア,ブラック・コア,,메인,마법,FALSE,,,0,FALSE
 5610,7625614,Raregold Armor,레어골드 아머,レアゴールド・アーマー,レアゴールド・アーマー,,메인,마법,FALSE,,,0,FALSE
@@ -1736,10 +1736,10 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5847,69196160,Thunder Crash,썬더 크래시,サンダー・クラッシュ,サンダー・クラッシュ,,메인,마법,FALSE,,,0,FALSE
 5848,95194279,Dimension Distortion,차원의 왜곡,次元の歪み,じげんのひずみ,,메인,마법,FALSE,,,0,FALSE
 5849,22589918,Reload,리로드,リロード,リロード,,메인,마법,FALSE,범용,범용,0,TRUE
-5850,68073522,Soul Absorption,영혼 흡수,魂吸収,たましいきゅうしゅう,,메인,마법,FALSE,,범용,9,TRUE
+5850,68073522,Soul Absorption,영혼 흡수,魂吸収,たましいきゅうしゅう,,메인,마법,FALSE,범용,범용,9,TRUE
 5851,95472621,Big Burn,대 화장,大火葬,だいかそう,,메인,함정,FALSE,,,0,FALSE
 5852,21466326,Blasting the Ruins,잔해 폭파,残骸爆破,ざんがいばくは,,메인,함정,FALSE,,,0,FALSE
-5853,58851034,Cursed Seal of the Forbidden Spell,봉인 마법의 저주,封魔の呪印,ふうまのじゅいん,,메인,함정,FALSE,,범용,3,TRUE
+5853,58851034,Cursed Seal of the Forbidden Spell,봉인 마법의 저주,封魔の呪印,ふうまのじゅいん,,메인,함정,FALSE,범용,범용,3,TRUE
 5854,94256039,Tower of Babel,바벨탑,バベル・タワー,バベル・タワー,,메인,함정,FALSE,,,0,FALSE
 5855,20644748,Spatial Collapse,우주의 수축,宇宙の収縮,うちゅうのしゅうしゅく,,메인,함정,FALSE,,,0,FALSE
 5856,57139487,Chain Disappearance,연쇄 제외,連鎖除外,チェーン・ロスト,,메인,함정,FALSE,,,0,FALSE
@@ -1778,7 +1778,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5897,95614612,Cannonball Spear Shellfish,포탄 창조개,砲弾ヤリ貝,ほうだんヤリがい,,메인,효과,FALSE,,,0,FALSE
 5898,22609617,Mataza the Zapper,기습 공격 마타자,不意打ち又佐,ふいうちまたざ,,메인,효과,FALSE,,,0,FALSE
 5899,68007326,Guardian Angel Joan,가디언 엔젤 잔느,守護天使 ジャンヌ,ガーディアンエンジェル　ジャンヌ,,메인,효과,FALSE,전용,가디언,0,FALSE
-5900,95492061,Manju of the Ten Thousand Hands,만수의 신,マンジュ・ゴッド,マンジュ・ゴッド,,메인,효과,FALSE,,범용,27,TRUE
+5900,95492061,Manju of the Ten Thousand Hands,만수의 신,マンジュ・ゴッド,マンジュ・ゴッド,,메인,효과,FALSE,범용,범용,27,TRUE
 5901,21887179,Getsu Fuhma,월풍마,月風魔,げつふうま,,메인,효과,FALSE,,,0,FALSE
 5902,57281778,Ryu Kokki,용골귀,龍骨鬼,りゅうこつき,,메인,효과,FALSE,,,0,FALSE
 5903,34370473,Gryphon's Feather Duster,그리폰의 깃털,グリフォンの羽根帚,グリフォンのはねぼうき,,메인,마법,FALSE,,,0,FALSE
@@ -1800,7 +1800,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5919,56769674,DNA Transplant,DNA 이식 수술,DNA移植手術,ＤＮＡいしょくしゅじゅつ,,메인,함정,FALSE,,,0,TRUE
 5920,83258273,Robbin' Zombie,로빈 좀비,追い剥ぎゾンビ,おいはぎゾンビ,,메인,함정,FALSE,,,0,FALSE
 5921,19252988,Trap Jammer,트랩 재머,トラップ・ジャマー,トラップ・ジャマー,,메인,함정,FALSE,,,0,FALSE
-5922,56647086,Invader of Darkness,암흑의 침략자,暗黒の侵略者,あんこくのしんりゃくしゃ,,메인,효과,FALSE,,범용,2,TRUE
+5922,56647086,Invader of Darkness,암흑의 침략자,暗黒の侵略者,あんこくのしんりゃくしゃ,,메인,효과,FALSE,준범용,범용,2,TRUE
 5923,82035781,Twinheaded Beast,트윈헤데드 비스트,ツインヘデッド・ビースト,ツインヘデッド・ビースト,,메인,효과,FALSE,,,0,FALSE
 5924,18430390,Winged Rhynos,윙드 라이노,ウィングド・ライノ,ウィングド・ライノ,,메인,효과,FALSE,,,0,FALSE
 5925,501000000,Ulevo,,Ulevo,Ulevo,,메인,효과,FALSE,,,0,FALSE
@@ -1827,7 +1827,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5953,64734921,The Agent of Creation - Venus,창조의 대행자 비너스,創造の代行者 ヴィーナス,そうぞうのだいこうしゃ　ヴィーナス,,메인,효과,FALSE,전용,대행자,21,TRUE
 5954,91123920,The Agent of Force - Mars,힘의 대행자 마르스,力の代行者 マーズ,ちからのだいこうしゃ　マーズ,,메인,효과,FALSE,전용,대행자,0,TRUE
 5955,27618634,The Unhappy Girl,불행한 걸,薄幸の乙女,はっこうのおとめ,,메인,효과,FALSE,,,0,FALSE
-5956,63012333,Soul-Absorbing Bone Tower,정기를 흡수하는 골탑,精気を吸う骨の塔,せいきをすうボーンタワー,,메인,효과,FALSE,,범용,2,TRUE
+5956,63012333,Soul-Absorbing Bone Tower,정기를 흡수하는 골탑,精気を吸う骨の塔,せいきをすうボーンタワー,,메인,효과,FALSE,전용,범용,2,TRUE
 5957,90407382,The Kick Man,더 킥맨,ザ・キックマン,ザ・キックマン,,메인,효과,FALSE,,,0,FALSE
 5958,26495087,Vampire Lady,뱀파이어 레이디,ヴァンパイア・レディ,ヴァンパイア・レディ,,메인,효과,FALSE,전용,뱀파이어,0,FALSE
 5959,53890795,Rocket Jumper,로켓 점퍼,ロケット・ジャンパー,ロケット・ジャンパー,,메인,효과,FALSE,,,0,FALSE
@@ -1849,7 +1849,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 5975,81383947,White Magician Pikeru,백마도사 피켈,白魔導士ピケル,しろまどうしピケル,,메인,효과,FALSE,,,0,FALSE
 5976,18378582,Archlord Zerato,대천사 제라토,大天使ゼラート,だいてんしゼラート,,메인,효과,FALSE,,,0,FALSE
 5977,44762290,Opti-Camouflage Armor,광학위장 아머,光学迷彩アーマー,こうがくめいさいアーマー,,메인,마법,FALSE,,,0,FALSE
-5978,80161395,Mystik Wok,신비의 중화냄비,神秘の中華なべ,しんぴのちゅうかなべ,,메인,마법,FALSE,,,2,TRUE
+5978,80161395,Mystik Wok,신비의 중화냄비,神秘の中華なべ,しんぴのちゅうかなべ,,메인,마법,FALSE,범용,,2,TRUE
 5979,17655904,Burst Stream of Destruction,멸망의 폭렬질풍탄,滅びの爆裂疾風弾,ほろびのバーストストリーム,,메인,마법,FALSE,전용,백룡,0,TRUE
 5980,43040603,Monster Gate,몬스터 게이트,モンスターゲート,モンスターゲート,,메인,마법,FALSE,준범용,범용,33,TRUE
 5981,10035717,Weapon Change,웨폰 체인지,ウェポンチェンジ,ウェポンチェンジ,,메인,마법,FALSE,,,0,FALSE
@@ -1966,7 +1966,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6110,72657739,Malice Doll of Demise,원한의 킬러돌,怨念のキラードール,おんねんのキラードール,,메인,효과,FALSE,,,0,FALSE
 6111,4041838,Ninja Grandmaster Sasuke,첩자 마스터 SASUKE,忍者マスター SASUKE,にんじゃマスター　サスケ,,메인,효과,FALSE,전용,첩자,0,FALSE
 6112,31440542,Rafflesia Seduction,환혹의 라플레시아,幻惑のラフレシア,げんわくのラフレシア,,메인,효과,FALSE,,,0,FALSE
-6113,67934141,Ultimate Baseball Kid,초열혈 야구소년,超熱血球児,ちょうねっけつきゅうじ,,메인,효과,FALSE,,,1,TRUE
+6113,67934141,Ultimate Baseball Kid,초열혈 야구소년,超熱血球児,ちょうねっけつきゅうじ,,메인,효과,FALSE,전용,,1,TRUE
 6114,4929256,Mobius the Frost Monarch,빙제 뫼비우스,氷帝メビウス,ひょうていメビウス,,메인,효과,FALSE,전용,제왕,0,TRUE
 6115,30314994,Element Dragon,엘리멘트 드래곤,エレメント・ドラゴン,エレメント・ドラゴン,,메인,효과,FALSE,,,0,FALSE
 6116,66712593,Element Soldier,엘리멘트 솔저,エレメント・ソルジャー,エレメント・ソルジャー,,메인,효과,FALSE,,,0,FALSE
@@ -1980,8 +1980,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6124,28357177,Hade-Hane,하데 하네,派手ハネ,ハデハネ,,메인,효과,FALSE,,,0,FALSE
 6125,64751286,Penumbral Soldier Lady,달의 여전사,月の女戦士,つきのおんなせんし,,메인,효과,FALSE,,,0,FALSE
 6126,90140980,Ojama King,방해꾼 킹,おジャマ・キング,おジャマ・キング,,엑스트라,융합,FALSE,전용,방해꾼,1,TRUE
-6127,27134689,Master of Oz,마스터 오브 OZ,マスター・オブ・OZ,マスター・オブ・オージー,,엑스트라,융합,FALSE,기타,융합,1,TRUE
-6128,53539634,Sanwitch,크릿치,クリッチー,クリッチー,,엑스트라,융합,FALSE,기타,융합,1,TRUE
+6127,27134689,Master of Oz,마스터 오브 OZ,マスター・オブ・OZ,マスター・オブ・オージー,,엑스트라,융합,FALSE,준범용,융합,1,TRUE
+6128,53539634,Sanwitch,크릿치,クリッチー,クリッチー,,엑스트라,융합,FALSE,준범용,융합,1,TRUE
 6129,90928333,Dark Factory of Mass Production,어둠의 양산공장,闇の量産工場,やみのりょうさんこうじょう,,메인,마법,FALSE,전용,엑시즈,0,TRUE
 6130,26412047,Hammer Shot,해머 슛,ハンマーシュート,ハンマーシュート,,메인,마법,FALSE,,,0,FALSE
 6131,52817046,Mind Wipe,기억말소,記憶抹消,きおくまっしょう,,메인,마법,FALSE,,,0,FALSE
@@ -2000,7 +2000,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6144,26022485,Enervating Mist,쇠약의 안개,衰弱の霧,すいじゃくのきり,,메인,함정,FALSE,,,0,FALSE
 6145,52417194,Heavy Slump,대폭락,大暴落,だいぼうらく,,메인,함정,FALSE,준범용,범용,2,TRUE
 6146,89405199,Greed,그리드,グリード,グリード,,메인,함정,FALSE,,,0,FALSE
-6147,15800838,Mind Crush,마인드 크러시,マインドクラッシュ,マインドクラッシュ,,메인,함정,FALSE,,범용,5,TRUE
+6147,15800838,Mind Crush,마인드 크러시,マインドクラッシュ,マインドクラッシュ,,메인,함정,FALSE,범용,범용,5,TRUE
 6148,51394546,Cemetary Bomb,세머테리 폭탄,セメタリー・ボム,セメタリー・ボム,,메인,함정,FALSE,,,0,FALSE
 6149,88789641,Hallowed Life Barrier,홀리 라이프 베리어,ホーリーライフバリアー,ホーリーライフバリアー,,메인,함정,FALSE,,,0,FALSE
 6150,14778250,The Tricky,더 트릭키,THE トリッキー,ザ　トリッキー,,메인,효과,FALSE,,,0,FALSE
@@ -2077,7 +2077,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6226,37053871,Astral Barrier,아스트랄 베리어,アストラルバリア,アストラルバリア,,메인,함정,FALSE,,,0,FALSE
 6227,74458486,Covering Fire,원호사격,援護射撃,えんごしゃげき,,메인,함정,FALSE,,,0,FALSE
 6229,36931229,Castle Gate,캐슬 게이트,キャッスル・ゲート,キャッスル・ゲート,,메인,효과,FALSE,,,0,FALSE
-6231,9720537,Owner's Seal,소유자의 각인,所有者の刻印,しょゆうしゃのこくいん,,메인,마법,FALSE,,,1,TRUE
+6231,9720537,Owner's Seal,소유자의 각인,所有者の刻印,しょゆうしゃのこくいん,,메인,마법,FALSE,범용,,1,TRUE
 6232,36119641,Space Mambo,스페이스 맘보,スペースマンボウ,スペースマンボウ,,메인,일반,FALSE,,,0,FALSE
 6233,62113340,Divine Dragon Ragnarok,신룡 라그나로크,神竜 ラグナロク,しんりゅう　ラグナロク,,메인,일반,FALSE,,,0,FALSE
 6234,8508055,Chu-Ske the Mouse Fighter,격투쥐 추스케,格闘ねずみ チュー助,かくとうねずみ　チューすけ,,메인,일반,FALSE,,,0,FALSE
@@ -2125,7 +2125,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6275,37083210,Cross Counter,크로스 카운터,クロスカウンター,クロスカウンター,,메인,함정,FALSE,,,0,FALSE
 6276,73578229,Pole Position,폴 포지션,ポールポジション,ポールポジション,,메인,함정,FALSE,,,0,FALSE
 6277,967928,Penalty Game!,페널티 게임!,罰ゲーム！,ばつゲーム！,,메인,함정,FALSE,,,0,FALSE
-6278,36361633,Threatening Roar,위협하는 포효,威嚇する咆哮,いかくするほうこう,,메인,함정,FALSE,,범용,13,TRUE
+6278,36361633,Threatening Roar,위협하는 포효,威嚇する咆哮,いかくするほうこう,,메인,함정,FALSE,범용,범용,13,TRUE
 6279,63356631,Phoenix Wing Wind Blast,봉황날개의 폭풍,鳳翼の爆風,ほうよくのばくふう,,메인,함정,FALSE,범용,범용,22,TRUE
 6280,9744376,Good Goblin Housekeeping,고블린의 운영 실력,ゴブリンのやりくり上手,ゴブリンのやりくりじょうず,,메인,함정,FALSE,,,0,FALSE
 6281,35149085,Beast Soul Swap,캐틀 뮤틸레이션,キャトルミューティレーション,キャトルミューティレーション,,메인,함정,FALSE,,,0,FALSE
@@ -2245,7 +2245,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6413,23635815,Jerry Beans Man,제리 빈즈맨,ジェリービーンズマン,ジェリービーンズマン,,메인,일반,FALSE,,,0,FALSE
 6414,59023523,Cybernetic Magician,사이버네틱 매지션,サイバネティック・マジシャン,サイバネティック・マジシャン,,메인,효과,FALSE,전용,사이버,0,FALSE
 6415,96428622,Cybernetic Cyclopean,사이버네틱 외눈 거인,サイバネティック・サイクロプス,サイバネティック・サイクロプス,,메인,효과,FALSE,전용,사이버,0,FALSE
-6416,22512237,Mechanical Hound,메커니컬 하운드,メカニカル・ハウンド,メカニカル・ハウンド,,메인,효과,FALSE,,,1,TRUE
+6416,22512237,Mechanical Hound,메커니컬 하운드,メカニカル・ハウンド,メカニカル・ハウンド,,메인,효과,FALSE,준범용,,1,TRUE
 6417,59907935,Cyber Archfiend,사이버 데몬,サイバーデーモン,サイバーデーモン,,메인,효과,FALSE,전용,사이버,0,FALSE
 6418,85306040,Goblin Elite Attack Force,고블린 엘리트 부대,ゴブリンエリート部隊,ゴブリンエリートぶたい,,메인,효과,FALSE,,,0,FALSE
 6419,22790789,B.E.S. Crystal Core,거대전함 크리스탈 코어,巨大戦艦 クリスタル・コア,きょだいせんかん　クリスタル・コア,,메인,효과,FALSE,전용,거대전함,0,FALSE
@@ -2375,7 +2375,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6546,47529357,Mist Body,미스트 바디,ミスト・ボディ,ミスト・ボディ,,메인,마법,FALSE,,,0,FALSE
 6547,84914462,Axe Dragonute,액스 드라고뉴트,アックス・ドラゴニュート,アックス・ドラゴニュート,,메인,효과,FALSE,,,0,FALSE
 6550,73891874,White-Horned Dragon,화이트 혼즈 드래곤,ホワイト・ホーンズ・ドラゴン,ホワイト・ホーンズ・ドラゴン,,메인,효과,FALSE,,,0,FALSE
-6551,19280589,Tellus the Little Angel,소천사 테루스,小天使テルス,しょうてんしテルス,,메인,효과,FALSE,,범용,3,TRUE
+6551,19280589,Tellus the Little Angel,소천사 테루스,小天使テルス,しょうてんしテルス,,메인,효과,FALSE,준범용,범용,3,TRUE
 6555,45462639,Dark Red Enchanter,다크 레드 인챈터,闇紅の魔導師,ダークレッド・エンチャンター,,메인,효과,FALSE,전용,다크,0,FALSE
 6558,44330098,Gorz the Emissary of Darkness,저승사자 고즈,冥府の使者ゴーズ,めいふのししゃゴーズ,,메인,효과,FALSE,준범용,,1,TRUE
 6563,6007213,"Uria, Lord of Searing Flames",신염황제 우리아,神炎皇ウリア,しんえんおうウリア,,메인,효과,FALSE,전용,환마,0,TRUE
@@ -2432,7 +2432,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6616,72709014,Trial of the Princesses,왕녀의 시련,王女の試練,おうじょのしれん,,메인,마법,FALSE,,,0,FALSE
 6617,8198712,End of the World,엔드 오브 더 월드,エンド・オブ・ザ・ワールド,エンド・オブ・ザ・ワールド,,메인,마법,FALSE,전용,데미스,0,FALSE
 6618,44182827,Samsara,윤회전생,輪廻転生,りんねてんしょう,,메인,마법,FALSE,,,0,FALSE
-6619,71587526,Karma Cut,인과절단,因果切断,いんがせつだん,,메인,함정,FALSE,,범용,2,TRUE
+6619,71587526,Karma Cut,인과절단,因果切断,いんがせつだん,,메인,함정,FALSE,범용,범용,2,TRUE
 6620,7076131,Next to be Lost,로스트 넥스트,ロスト・ネクスト,ロスト・ネクスト,,메인,함정,FALSE,,,0,FALSE
 6621,34460239,Generation Shift,제너레이션 체인지,ジェネレーション・チェンジ,ジェネレーション・チェンジ,,메인,함정,FALSE,,,0,FALSE
 6622,70865988,Full Salvo,풀 버스트,全弾発射,フルバースト,,메인,함정,FALSE,,,0,FALSE
@@ -2672,7 +2672,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 6905,37011715,Miraculous Rebirth,미러클 리본,奇跡の蘇生,ミラクル・リボーン,,메인,마법,FALSE,,,0,FALSE
 6906,63516460,Mystical Wind Typhoon,일진의 바람,一陣の風,いちじんのかぜ,,메인,마법,FALSE,,,0,FALSE
 6907,90500169,Level Down!?,레벨 다운!?,レベルダウン！？,レベルダウン！？,,메인,마법,FALSE,,,0,FALSE
-6908,36995273,Degenerate Circuit,축퇴회로,縮退回路,しゅくたいかいろ,,메인,마법,FALSE,,,1,TRUE
+6908,36995273,Degenerate Circuit,축퇴회로,縮退回路,しゅくたいかいろ,,메인,마법,FALSE,범용,,1,TRUE
 6909,63394872,Senet Switch,포지션 체인지,ポジションチェンジ,ポジションチェンジ,,메인,마법,FALSE,전용,벨리언츠,0,TRUE
 6910,99788587,Blasting Fuse,폭파 도화선,爆導索,ばくどうさく,,메인,함정,FALSE,,,0,TRUE
 6911,25173686,Straight Flush,스트레이트 플러시,ストレートフラッシュ,ストレートフラッシュ,,메인,함정,FALSE,,,0,FALSE
@@ -2764,7 +2764,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 7007,46874015,Return of the Six Samurai,여섯 무사의 방문!,六武衆推参！,ろくぶしゅうすいさん！,,메인,함정,FALSE,전용,육무,0,FALSE
 7008,73872164,Eliminating the League,가택 소탕,お家おとりつぶし,おいえおとりつぶし,,메인,함정,FALSE,,,0,FALSE
 7009,9267769,Flashbang,섬광탄,閃光弾,せんこうだん,,메인,함정,FALSE,,,0,FALSE
-7010,46652477,The Transmigration Prophecy,전생의 예언,転生の予言,てんせいのよげん,,메인,함정,FALSE,,,20,TRUE
+7010,46652477,The Transmigration Prophecy,전생의 예언,転生の予言,てんせいのよげん,,메인,함정,FALSE,범용,,20,TRUE
 7011,72150572,Anti-Fusion Device,융합체 구제장치,融合体駆除装置,ゆうごうたいくじょそうち,,메인,함정,FALSE,기타,융합,0,FALSE
 7012,9145181,Ritual Sealing,의식강림 봉인의 서,儀式降臨封印の書,ぎしきこうりんふういんのしょ,,메인,함정,FALSE,,,0,FALSE
 7013,35539880,Birthright,정통한 혈통,正統なる血統,せいとうなるけっとう,,메인,함정,FALSE,,,0,TRUE
@@ -3055,7 +3055,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 7343,79473793,White Night Dragon,푸른 얼음의 백야룡,青氷の白夜龍,ブルーアイス・ホワイトナイツ・ドラゴン,,메인,효과,FALSE,,,0,FALSE
 7344,5861892,Arcana Force EX - The Light Ruler,아르카나 포스 EX－빛의 통치자,アルカナフォースEX－THE LIGHT RULER,アルカナフォースエクストラ－ザ・ライト・ルーラー,,메인,효과,FALSE,전용,아르카나,0,TRUE
 7345,42256406,Card Blocker,카드 블로커,カードブロッカー,カードブロッカー,,메인,효과,FALSE,,,0,FALSE
-7346,78651105,Beast King Barbaros,신수왕 바르바로스,神獣王バルバロス,しんじゅうおうバルバロス,,메인,효과,FALSE,,,3,TRUE
+7346,78651105,Beast King Barbaros,신수왕 바르바로스,神獣王バルバロス,しんじゅうおうバルバロス,,메인,효과,FALSE,전용,,3,TRUE
 7347,5645210,Splendid Venus,The splendid VENUS,The splendid VENUS,ザ・スプレンディッド・ヴィーナス,,메인,효과,FALSE,전용,플래닛,0,TRUE
 7348,31034919,Mad Reloader,매드 리로더,マッド・リローダー,マッド・リローダー,,메인,효과,FALSE,,,0,FALSE
 7349,77538567,Dark Bribe,마궁의 뇌물,魔宮の賄賂,まきゅうのわいろ,,메인,함정,FALSE,전용,범용,201,TRUE
@@ -3206,7 +3206,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 7516,9748752,Caius the Shadow Monarch,사 제왕 가이우스,邪帝ガイウス,じゃていガイウス,,메인,효과,FALSE,전용,제왕,0,TRUE
 7517,36733451,Dimensional Alchemist,차원합성사,次元合成師,ディメンション・ケミストリー,,메인,효과,FALSE,,,0,FALSE
 7518,72237166,Samsara Kaiser,카이저 새크리파이스,カイザー・サクリファイス,カイザー・サクリファイス,,메인,효과,FALSE,,,0,FALSE
-7519,9622164,D.D.R. - Different Dimension Reincarnation,D·D·R,D・D・R,ディファレント・ディメンション・リバイバル,,메인,마법,FALSE,,범용,3,TRUE
+7519,9622164,D.D.R. - Different Dimension Reincarnation,D·D·R,D・D・R,ディファレント・ディメンション・リバイバル,,메인,마법,FALSE,범용,범용,3,TRUE
 7520,35011819,By Order of the Emperor,엠페러 오더,エンペラー・オーダー,エンペラー・オーダー,,메인,함정,FALSE,,,0,FALSE
 7522,8400623,Evil Dragon Ananta,사룡 아난타,邪龍アナンタ,じゃりゅうアナンタ,,메인,효과,FALSE,,,0,FALSE
 7526,33776734,Winged Kuriboh LV9,날개 크리보 LV9,ハネクリボー LV９,ハネクリボー　レベル９,,메인,효과,FALSE,전용,LV,0,FALSE
@@ -3242,7 +3242,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 7556,52875873,Evolution Burst,에볼루션 버스트,エヴォリューション・バースト,エヴォリューション・バースト,,메인,마법,FALSE,전용,사이버 드래곤,0,TRUE
 7557,88264978,Red-Eyes Darkness Metal Dragon,붉은 눈의 암흑 메탈 드래곤,レッドアイズ・ダークネスメタルドラゴン,レッドアイズ・ダークネスメタルドラゴン,,메인,효과,FALSE,전용,흑룡,6,TRUE
 7557,88264979,Red-Eyes Darkness Metal Dragon,붉은 눈의 암흑 메탈 드래곤,レッドアイズ・ダークネスメタルドラゴン,レッドアイズ・ダークネスメタルドラゴン,,메인,효과,FALSE,전용,흑룡,6,TRUE
-7558,14258627,Gaia Plate the Earth Giant,지구거인 가이아 플레이트,地球巨人 ガイア・プレート,ちきゅうきょじん　ガイア・プレート,,메인,효과,FALSE,,땅,2,TRUE
+7558,14258627,Gaia Plate the Earth Giant,지구거인 가이아 플레이트,地球巨人 ガイア・プレート,ちきゅうきょじん　ガイア・プレート,,메인,효과,FALSE,전용,땅,2,TRUE
 7559,41753322,Sauropod Brachion,용각수 브라키온,竜脚獣ブラキオン,りゅうきゃくじゅうブラキオン,,메인,효과,FALSE,,,0,FALSE
 7560,87148330,"Tethys, Goddess of Light",광신 테튜스,光神テテュス,こうしんテテュス,,메인,효과,FALSE,,,0,TRUE
 7561,14536035,Dark Grepher,다크 그레퍼,ダーク・グレファー,ダーク・グレファー,,메인,효과,FALSE,준범용,범용,15,TRUE
@@ -3381,7 +3381,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 7698,23693634,Colossal Fighter,기간테크 파이터,ギガンテック・ファイター,ギガンテック・ファイター,,엑스트라,싱크로,FALSE,전용,없음,9,TRUE
 7699,60187739,Turbo Booster,원샷 부스터,ワンショット・ブースター,ワンショット・ブースター,,메인,효과,FALSE,범용,범용,15,TRUE
 7700,96182448,Nitro Synchron,니트로 싱크론,ニトロ・シンクロン,ニトロ・シンクロン,,메인,효과,FALSE,,싱크론,0,FALSE
-7701,23571046,Quillbolt Hedgehog,볼트 고슴도치,ボルト・ヘッジホッグ,ボルト・ヘッジホッグ,,메인,효과,FALSE,,,2,TRUE
+7701,23571046,Quillbolt Hedgehog,볼트 고슴도치,ボルト・ヘッジホッグ,ボルト・ヘッジホッグ,,메인,효과,FALSE,전용,,2,TRUE
 7702,59965151,Ghost Gardna,데드 가드너,デッド・ガードナー,デッド・ガードナー,,메인,효과,FALSE,,,0,FALSE
 7703,95360850,Shield Warrior,실드 워리어,シールド・ウォリアー,シールド・ウォリアー,,메인,효과,FALSE,,,0,FALSE
 7704,22754505,Small Piece Golem,스몰 피스 골렘,スモール・ピース・ゴーレム,スモール・ピース・ゴーレム,,메인,효과,FALSE,,,0,FALSE
@@ -3442,7 +3442,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 7759,60930169,Broken Blocker,브로큰 블록커,ブロークン・ブロッカー,ブロークン・ブロッカー,,메인,함정,FALSE,,,0,FALSE
 7760,96938777,Machine Lord Ür,신기왕 우르,神機王ウル,しんきおうウル,,메인,효과,FALSE,,,0,FALSE
 7761,23323812,Telepathic Power,염도력,念導力,ねんどうりょく,,메인,함정,FALSE,,,0,FALSE
-7762,59718521,Mind Over Matter,브로닝 파워,ブローニング・パワー,ブローニング・パワー,,메인,함정,FALSE,,범용,1,TRUE
+7762,59718521,Mind Over Matter,브로닝 파워,ブローニング・パワー,ブローニング・パワー,,메인,함정,FALSE,전용,범용,1,TRUE
 7763,96216229,Gladiator Beast War Chariot,검투수의 전차,剣闘獣の戦車,グラディアルビースト・チャリオット,,메인,함정,FALSE,전용,검투수,0,TRUE
 7764,22201234,Lightsworn Barrier,라이트로드 베리어,ライトロード・バリア,ライトロード・バリア,,메인,함정,FALSE,전용,라이트로드,0,TRUE
 7765,59695933,Intercept,인터셉트,インターセプト,インターセプト,,메인,함정,FALSE,,,0,FALSE
@@ -3506,7 +3506,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 7842,18960169,Goblin Decoy Squad,고블린 양동부대,ゴブリン陽動部隊,ゴブリンようどうぶたい,,메인,효과,FALSE,,,0,FALSE
 7843,44364207,Jade Knight,제이드 나이트,ジェイドナイト,ジェイドナイト,,메인,효과,FALSE,,,0,FALSE
 7844,71759912,Tree Otter,랏코알라,ラッコアラ,ラッコアラ,,메인,효과,FALSE,,,0,FALSE
-7845,7243511,Koalo-Koala,코알랏코알라,コアラッコアラ,コアラッコアラ,,엑스트라,융합,FALSE,기타,융합,2,TRUE
+7845,7243511,Koalo-Koala,코알랏코알라,コアラッコアラ,コアラッコアラ,,엑스트라,융합,FALSE,준범용,융합,2,TRUE
 7846,43642620,Zombie Mammoth,맘모스 좀비,マンモス・ゾンビ,マンモス・ゾンビ,,메인,효과,FALSE,,,0,FALSE
 7848,6021033,Doomkaiser Dragon,데스카이저 드래곤,デスカイザー・ドラゴン,デスカイザー・ドラゴン,,엑스트라,싱크로,FALSE,전용,없음,0,TRUE
 7849,33420078,Plaguespreader Zombie,좀비 캐리어,ゾンビキャリア,ゾンビキャリア,,메인,효과,FALSE,전용,범용,21,TRUE
@@ -3647,7 +3647,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8005,14943837,Debris Dragon,데브리 드래곤,デブリ・ドラゴン,デブリ・ドラゴン,,메인,효과,FALSE,,,0,TRUE
 8006,40348946,Hyper Synchron,하이퍼 싱크론,ハイパー・シンクロン,ハイパー・シンクロン,,메인,효과,FALSE,전용,싱크론,0,TRUE
 8007,77336644,Red Dragon Archfiend/Assault Mode,레드 데몬즈 드래곤/버스터,レッド・デーモンズ・ドラゴン／バスター,レッド・デーモンズ・ドラゴンスラッシュバスター,,메인,효과,FALSE,전용,레드데몬,0,TRUE
-8008,13821299,Trap Eater,트랩 이터,トラップ・イーター,トラップ・イーター,,메인,효과,FALSE,,범용,13,TRUE
+8008,13821299,Trap Eater,트랩 이터,トラップ・イーター,トラップ・イーター,,메인,효과,FALSE,준범용,범용,13,TRUE
 8009,40225398,Twin-Sword Marauder,트윈 브레이커,ツイン・ブレイカー,ツイン・ブレイカー,,메인,효과,FALSE,,,0,FALSE
 8010,76614003,Dark Tinker,다크 리페어러,ダーク・リペアラー,ダーク・リペアラー,,메인,효과,FALSE,전용,다크,0,FALSE
 8011,2009101,Blackwing - Gale the Whirlwind,BF－질풍의 게일,BF－疾風のゲイル,ブラックフェザー－しっぷうのゲイル,,메인,효과,FALSE,전용,블랙페더,5,TRUE
@@ -3719,7 +3719,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8077,1557341,"Rose, Warrior of Revenge",복수의 여전사 로즈,復讐の女戦士ローズ,ふくしゅうのおんなせんしローズ,,메인,효과,FALSE,,,0,FALSE
 8078,38041940,Seed of Flame,시드 오브 프레임,シード・オブ・フレイム,シード・オブ・フレイム,,메인,효과,FALSE,,,0,FALSE
 8079,74440055,Cactus Fighter,선인장 파이터,サボウ・ファイター,サボウ・ファイター,,메인,효과,FALSE,,,0,FALSE
-8080,1834753,Overdrive Teleporter,맥스 텔레포터,マックス・テレポーター,マックス・テレポーター,,메인,효과,FALSE,,범용,2,TRUE
+8080,1834753,Overdrive Teleporter,맥스 텔레포터,マックス・テレポーター,マックス・テレポーター,,메인,효과,FALSE,준범용,범용,2,TRUE
 8081,37829468,Rai-Jin,RAI－JIN,RAI－JIN,ライ－ジン,,메인,효과,FALSE,,,0,FALSE
 8082,63223467,Rai-Mei,RAI－MEI,RAI－MEI,ライ－メイ,,메인,효과,FALSE,,,0,FALSE
 8083,612115,Gladiator Beast Retiari,검투수 레티어리,剣闘獣レティアリィ,グラディアルビーストレティアリィ,,메인,효과,FALSE,전용,검투수,0,TRUE
@@ -3849,7 +3849,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8220,59839761,Delta Crow - Anti Reverse,델타 크로우 － 안티 리버스,デルタ・クロウ－アンチ・リバース,デルタ・クロウ－アンチ・リバース,,메인,함정,FALSE,전용,블랙페더,0,TRUE
 8221,86223870,Level Retuner,레벨 리튜너,レベル・リチューナー,レベル・リチューナー,,메인,함정,FALSE,,,0,FALSE
 8222,22628574,Fake Feather,페이크 페더,フェイク・フェザー,フェイク・フェザー,,메인,함정,FALSE,전용,블랙페더,0,TRUE
-8223,59616123,Trap Stun,트랩 스턴,トラップ・スタン,トラップ・スタン,,메인,함정,FALSE,,,2,TRUE
+8223,59616123,Trap Stun,트랩 스턴,トラップ・スタン,トラップ・スタン,,메인,함정,FALSE,준범용,,2,TRUE
 8224,85101228,Morphtronic Bind,D·바인드,D・バインド,ディフォーマー・バインド,,메인,함정,FALSE,전용,디포머,0,TRUE
 8225,11596936,Reckoned Power,렉크리스 파워,レクリスパワー,レクリスパワー,,메인,함정,FALSE,전용,코아키메일,0,TRUE
 8226,58990631,Automatic Laser,오토매틱 레이저,オートマチック・レーザー,オートマチック・レーザー,,메인,함정,FALSE,전용,코아키메일,0,FALSE
@@ -3976,7 +3976,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8354,10118318,Reinforce Truth,트루스 리인포스,トゥルース・リインフォース,トゥルース・リインフォース,,메인,함정,FALSE,,,0,FALSE
 8355,46502013,Pixie Ring,갈리트랩 －픽시의 원－,ガリトラップ－ピクシーの輪－,ガリトラップ－ピクシーのわ－,,메인,함정,FALSE,,,0,FALSE
 8356,73507661,Fairy Wind,요정의 바람,妖精の風,ようせいのかぜ,,메인,함정,FALSE,,,0,FALSE
-8357,9995766,Imperial Custom,궁정의 관습,宮廷のしきたり,きゅうていのしきたり,,메인,함정,FALSE,,,4,TRUE
+8357,9995766,Imperial Custom,궁정의 관습,宮廷のしきたり,きゅうていのしきたり,,메인,함정,FALSE,준범용,,4,TRUE
 8358,46480475,Discord,불협화음,不協和音,ふきょうわおん,,메인,함정,FALSE,범용,범용,0,TRUE
 8359,72885174,Slip of Fortune,포츈 슬립,フォーチュン・スリップ,フォーチュン・スリップ,,메인,함정,FALSE,전용,포츈 레이디,0,FALSE
 8360,8279188,Depth Amulet,뎁스 애뮤릿,デプス・アミュレット,デプス・アミュレット,,메인,함정,FALSE,,,0,FALSE
@@ -4103,7 +4103,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8490,33846209,Gemini Spark,듀얼 스파크,デュアルスパーク,デュアルスパーク,,메인,마법,FALSE,,,0,FALSE
 8491,60234913,Ritual of Grace,구세의 의식,救世の儀式,きゅうせいのぎしき,,메인,마법,FALSE,,,0,FALSE
 8492,96729612,Preparation of Rites,의식의 준비,儀式の準備,ぎしきのじゅんび,,메인,마법,FALSE,준범용,범용,292,TRUE
-8493,22123627,Moray of Greed,욕망의 곰치,強欲なウツボ,ごうよくなウツボ,,메인,마법,FALSE,,,3,TRUE
+8493,22123627,Moray of Greed,욕망의 곰치,強欲なウツボ,ごうよくなウツボ,,메인,마법,FALSE,전용,,3,TRUE
 8494,69112325,Spiritual Forest,신성한 숲,神聖なる森,スピリチュアル・フォレスト,,메인,마법,FALSE,전용,범용,0,TRUE
 8495,95507060,Raging Mad Plants,광식물의 범람,狂植物の氾濫,きょうしょくぶつのはんらん,,메인,마법,FALSE,,,0,FALSE
 8496,22991179,Insect Neglect,무시가호,無視加護,むしかご,,메인,마법,FALSE,,,0,FALSE
@@ -4213,7 +4213,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8614,20797524,Tricular,트라이클러,トライクラー,トライクラー,,메인,효과,FALSE,,,0,FALSE
 8615,56286179,Drill Synchron,드릴 싱크론,ドリル・シンクロン,ドリル・シンクロン,,메인,효과,FALSE,,싱크론,0,TRUE
 8616,82670878,Ogre of the Scarlet Sorrow,피눈물의 오우거,血涙のオーガ,けつるいのオーガ,,메인,효과,FALSE,,,0,FALSE
-8617,19665973,Battle Fader,배틀 페이더,バトルフェーダー,バトルフェーダー,,메인,효과,FALSE,,범용,5,TRUE
+8617,19665973,Battle Fader,배틀 페이더,バトルフェーダー,バトルフェーダー,,메인,효과,FALSE,범용,범용,5,TRUE
 8618,55063681,Power Supplier,파워 서플라이어,パワー・サプライヤー,パワー・サプライヤー,,메인,효과,FALSE,,,0,FALSE
 8619,82458280,Magic Hole Golem,매직 홀 골렘,マジック・ホール・ゴーレム,マジック・ホール・ゴーレム,,메인,효과,FALSE,,,0,FALSE
 8620,18842395,Power Invader,파워 인베이더,パワー・インベーダー,パワー・インベーダー,,메인,효과,FALSE,,,0,FALSE
@@ -4340,7 +4340,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8753,42737833,XX-Saber Emmersblade,XX－세이버 에머즈블레이드,XX－セイバー エマーズブレイド,ダブルエックス－セイバー　エマーズブレイド,,메인,효과,FALSE,전용,X-세이버,0,TRUE
 8754,78121572,Alchemist of Black Spells,흑마력의 정제자,黒魔力の精製者,くろまりょくのせいせいしゃ,,메인,효과,FALSE,,,0,FALSE
 8755,5220687,Super-Nimble Mega Hamster,재빠른 빅햄스터,素早いビッグハムスター,すばやいビッグハムスター,,메인,효과,FALSE,전용,재빠른,0,FALSE
-8756,31615285,Cactus Bouncer,선인장 클로저,サボウ・クローザー,サボウ・クローザー,,메인,효과,FALSE,,식물,7,TRUE
+8756,31615285,Cactus Bouncer,선인장 클로저,サボウ・クローザー,サボウ・クローザー,,메인,효과,FALSE,전용,식물,7,TRUE
 8757,78009994,Dragonic Guard,드래고닉 가드,ドラゴニック・ガード,ドラゴニック・ガード,,메인,효과,FALSE,,,0,FALSE
 8758,4404099,The Dragon Dwelling in the Deep,해저에 숨은 심해룡,海底に潜む深海竜,かいていにひそむしんかいりゅう,,메인,효과,FALSE,,,0,FALSE
 8759,30492798,Djinn Disserere of Rituals,의식마인 디저즈,儀式魔人ディザーズ,ぎしきまじんディザーズ,,메인,효과,FALSE,전용,의식마인,0,FALSE
@@ -4410,7 +4410,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8832,64990807,Magic Triangle of the Ice Barrier,빙결계의 삼방진,氷結界の三方陣,ひょうけっかいのさんほうじん,,메인,마법,FALSE,전용,빙결계,0,TRUE
 8833,91985515,Koa'ki Meiru Initialize!,코아키메일 초기화,鋼核初期化,コアキメイル・イニシャライズ,,메인,마법,FALSE,전용,코아키메일,0,TRUE
 8834,27383110,Dawn of the Herald,디클레어러의 프로퍼시,宣告者の預言,デクレアラー・プロフェシー,,메인,마법,FALSE,전용,디클레어러,64,TRUE
-8835,53778229,Silent Graveyard,묘지봉인,墓地封印,ぼちふういん,,메인,마법,FALSE,,,2,TRUE
+8835,53778229,Silent Graveyard,묘지봉인,墓地封印,ぼちふういん,,메인,마법,FALSE,범용,,2,TRUE
 8836,90263923,Leeching the Light,샤이닝 앱소브,シャイニング・アブソーブ,シャイニング・アブソーブ,,메인,마법,FALSE,전용,,0,TRUE
 8837,26257572,Corridor of Agony,고통의 회랑,苦痛の回廊,くつうのかいろう,,메인,마법,FALSE,,,0,FALSE
 8838,53656677,Power Frame,파워 프레임,パワー・フレーム,パワー・フレーム,,메인,함정,FALSE,,,0,FALSE
@@ -4520,7 +4520,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 8966,15839054,Synchro Fusionist,싱크로 퓨저니스트,シンクロ・フュージョニスト,シンクロ・フュージョニスト,,메인,효과,FALSE,,,0,FALSE
 8967,41224658,Ambitious Gofer,야망의 고퍼,野望のゴーファー,やぼうのゴーファー,,메인,효과,FALSE,,,0,FALSE
 8968,87622767,Final Psychic Ogre,파이널 사이코 오우거,ファイナルサイコオーガ,ファイナルサイコオーガ,,메인,효과,FALSE,,,0,FALSE
-8969,14017402,Dragon Knight Draco-Equiste,파동룡기사 드래고에퀴테스,波動竜騎士 ドラゴエクィテス,はどうりゅうきし　ドラゴエクィテス,,엑스트라,융합,FALSE,기타,융합,1,TRUE
+8969,14017402,Dragon Knight Draco-Equiste,파동룡기사 드래고에퀴테스,波動竜騎士 ドラゴエクィテス,はどうりゅうきし　ドラゴエクィテス,,엑스트라,융합,FALSE,준범용,융합,1,TRUE
 8970,40101111,Ultimate Axon Kicker,얼티미트 사이키커,アルティメットサイキッカー,アルティメットサイキッカー,,엑스트라,융합,FALSE,기타,융합,0,FALSE
 8971,77506119,Thunder Unicorn,썬더 유니콘,サンダー・ユニコーン,サンダー・ユニコーン,,엑스트라,싱크로,FALSE,전용,없음,0,FALSE
 8972,13995824,Voltic Bicorn,볼테크 바이콘,ボルテック・バイコーン,ボルテック・バイコーン,,엑스트라,싱크로,FALSE,전용,없음,0,FALSE
@@ -5040,7 +5040,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 9575,84013239,Number 39: Utopia,No.39 유토피아,No.39 希望皇ホープ,ナンバーズ３９　きぼうおうホープ,,엑스트라,엑시즈,FALSE,준범용,유토피아,31,TRUE
 9576,10002346,Gachi Gachi Gantetsu,까칠까칠 간테츠,ガチガチガンテツ,ガチガチガンテツ,,엑스트라,엑시즈,FALSE,전용,없음,4,TRUE
 9577,47506081,Grenosaurus,그렌자우루스,グレンザウルス,グレンザウルス,,엑스트라,엑시즈,FALSE,전용,없음,0,TRUE
-9578,83991690,Buten,부텐,ブーテン,ブーテン,,메인,효과,FALSE,,,2,TRUE
+9578,83991690,Buten,부텐,ブーテン,ブーテン,,메인,효과,FALSE,전용,,2,TRUE
 9579,10389794,Doom Donuts,데스 도너츠,デス・ドーナツ,デス・ドーナツ,,메인,효과,FALSE,,,0,FALSE
 9580,46384403,Nimble Manta,재빠른 맨터,素早いマンタ,すばやいマンタ,,메인,효과,FALSE,전용,재빠른,0,TRUE
 9581,73778008,Rage of the Deep Sea,심해의 분노,深海の怒り,レイジ・オブ・ディープシー,,메인,효과,FALSE,전용,심해의,0,TRUE
@@ -5152,7 +5152,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 9691,59070329,Utopian Aura,유토피언 아우라,皇の波動,おうのはどう,,메인,함정,FALSE,,,0,FALSE
 9692,86474024,United Front,공명 전선,共同戦線,きょうどうせんせん,,메인,함정,FALSE,,,0,FALSE
 9693,12863633,Curse of the Circle,오릉성의 저주,五稜星の呪縛,ごりょうせいのじゅばく,,메인,함정,FALSE,,,0,FALSE
-9694,48357738,Tyrant's Tummyache,폭군의 폭음폭식,暴君の暴飲暴食,ぼうくんのぼういんぼうしょく,,메인,함정,FALSE,,범용,2,TRUE
+9694,48357738,Tyrant's Tummyache,폭군의 폭음폭식,暴君の暴飲暴食,ぼうくんのぼういんぼうしょく,,메인,함정,FALSE,준범용,범용,2,TRUE
 9695,85352446,Attention!,통제 훈련,統制訓練,とうせいくんれん,,메인,함정,FALSE,,,0,FALSE
 9696,11741041,Raigeki Bottle,썬더 보틀,サンダー・ボトル,サンダー・ボトル,,메인,함정,FALSE,,,0,FALSE
 9697,48135190,Gravelstorm,자갈 스톰,砂利ケーン,じゃりケーン,,메인,함정,FALSE,,,0,FALSE
@@ -5436,7 +5436,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 9976,79185500,Ironhammer the Giant,철의 거인 아이언해머,鉄巨人アイアンハンマー,てつきょじんアイアンハンマー,,메인,효과,FALSE,,,0,FALSE
 9977,15574615,D.D. Jet Iron,이차원 제트 아이언호,異次元ジェット・アイアン号,いじげんジェット・アイアンごう,,메인,효과,FALSE,전용,이차원,0,TRUE
 9978,42969214,Aye-Iron,아이 아이언,アイアイアン,アイアイアン,,메인,효과,FALSE,,,0,FALSE
-9979,18063928,Tin Goldfish,양철금붕어,ブリキンギョ,ブリキンギョ,,메인,효과,FALSE,,,1,TRUE
+9979,18063928,Tin Goldfish,양철금붕어,ブリキンギョ,ブリキンギョ,,메인,효과,FALSE,준범용,,1,TRUE
 9980,45458027,Gearspring Spirit,시계장치 식신,ネジマキシキガミ,ネジマキシキガミ,,메인,효과,FALSE,전용,,0,FALSE
 9981,81846636,Gem-Knight Lazuli,젬나이트 라줄리,ジェムナイト・ラズリー,ジェムナイト・ラズリー,,메인,효과,FALSE,전용,젬나이츠,0,TRUE
 9982,17241370,Gishki Natalia,리추어 나탈리아,リチュア・ナタリア,リチュア・ナタリア,,메인,효과,FALSE,전용,리추어,0,TRUE
@@ -5755,7 +5755,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 10295,97697447,Abyss-strom,어비스트롬,アビストローム,アビストローム,,메인,함정,FALSE,전용,머메일,0,TRUE
 10296,23681456,Madolchepalooza,마돌체 행복페스타,マドルチェ・ハッピーフェスタ,マドルチェ・ハッピーフェスタ,,메인,함정,FALSE,전용,마돌체,0,TRUE
 10297,60080151,Memory of an Adversary,호적수의 기억,好敵手の記憶,とものきおく,,메인,함정,FALSE,,,0,TRUE
-10298,96474800,Magic Deflector,매직 디플렉터,マジック・ディフレクター,マジック・ディフレクター,,메인,함정,FALSE,,범용,4,TRUE
+10298,96474800,Magic Deflector,매직 디플렉터,マジック・ディフレクター,マジック・ディフレクター,,메인,함정,FALSE,범용,범용,4,TRUE
 10299,22869904,That Wacky Alchemy!,마력유폭,魔力誘爆,まりょくゆうばく,,메인,함정,FALSE,,,0,FALSE
 10300,59957503,Cash Back,캐시백,キャッシュバック,キャッシュバック,,메인,함정,FALSE,,,0,FALSE
 10301,95352218,Unification,천하통일,天下統一,てんかとういつ,,메인,함정,FALSE,,,0,FALSE
@@ -5782,7 +5782,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 10324,48995978,Number 88: Gimmick Puppet of Leo,No.88 기믹 퍼핏－데스티니 레오,No.88 ギミック・パペット－デステニー・レオ,ナンバーズ８８ ギミック・パペット－デステニー・レオ,,엑스트라,엑시즈,FALSE,전용,기믹 퍼핏,0,TRUE
 10325,75380687,Amulet Dragon,애뮤릿 드래곤,呪符竜,アミュレット・ドラゴン,,엑스트라,융합,FALSE,전용,블랙매지션,0,FALSE
 10326,1784686,The Eye of Timaeus,티마이오스의 눈,ティマイオスの眼,ティマイオスのまなこ,,메인,마법,FALSE,전용,블랙매지션,0,TRUE
-10327,48179391,The Seal of Orichalcos,오리컬코스의 결계,オレイカルコスの結界,オレイカルコスのけっかい,,메인,마법,FALSE,,범용,1,TRUE
+10327,48179391,The Seal of Orichalcos,오리컬코스의 결계,オレイカルコスの結界,オレイカルコスのけっかい,,메인,마법,FALSE,전용,범용,1,TRUE
 10328,74168099,Brotherhood of the Fire Fist - Horse Prince,염성후－호우신,炎星侯－ホウシン,えんせいこう－ホウシン,,엑스트라,싱크로,FALSE,전용,염무 염성,1,TRUE
 10329,1662004,Brotherhood of the Fire Fist - Spirit,염성사－초우텐,炎星師－チョウテン,えんせいし－チョウテン,,메인,효과,FALSE,전용,염무 염성,0,TRUE
 10330,37057743,Brotherhood of the Fire Fist - Lion Emperor,염성황－초우라이오,炎星皇－チョウライオ,えんせいおう－チョウライオ,,엑스트라,엑시즈,FALSE,전용,염무 염성,0,TRUE
@@ -5833,7 +5833,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 10375,45705025,Heraldic Beast Unicorn,문장수 유니콘,紋章獣ユニコーン,もんしょうじゅうユニコーン,,메인,효과,FALSE,전용,문장수,0,TRUE
 10376,82293134,Heraldic Beast Leo,문장수 레오,紋章獣レオ,もんしょうじゅうレオ,,메인,효과,FALSE,전용,문장수,0,TRUE
 10377,18698739,Garbage Ogre,가비지 오우거,ガーベージ・オーガ,ガーベージ・オーガ,,메인,효과,FALSE,,,0,FALSE
-10378,44682448,Garbage Lord,가비지 로드,ガーベージ・ロード,ガーベージ・ロード,,메인,효과,FALSE,,,2,TRUE
+10378,44682448,Garbage Lord,가비지 로드,ガーベージ・ロード,ガーベージ・ロード,,메인,효과,FALSE,전용,,2,TRUE
 10379,71071546,Orbital 7,오비탈 7,オービタル ７,オービタル　セブン,,메인,효과,FALSE,,,0,FALSE
 10380,17475251,Brotherhood of the Fire Fist - Hawk,영염성－호크에이,英炎星－ホークエイ,えいえんせい－ホークエイ,,메인,효과,FALSE,전용,염무 염성,0,TRUE
 10381,44860890,Brotherhood of the Fire Fist - Raven,첩염성－세이븐,捷炎星－セイヴン,しょうえんせい－セイヴン,,메인,효과,FALSE,전용,염무 염성,0,TRUE
@@ -6003,7 +6003,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 10546,19337371,Hysteric Sign,히스테릭 사인,ヒステリック・サイン,ヒステリック・サイン,,메인,마법,FALSE,전용,해피,0,TRUE
 10547,45725480,Sacred Sword of Seven Stars,칠성의 보도,七星の宝刀,しちせいのほうとう,,메인,마법,FALSE,준범용,범용,12,TRUE
 10548,72710085,Jewels of the Valiant,성사의 신식,星邪の神喰,せいじゃのしんしょく,,메인,마법,FALSE,,,0,FALSE
-10549,18114794,Summon Breaker,서몬 브레이커,サモンブレーカー,サモンブレーカー,,메인,마법,FALSE,,,1,TRUE
+10549,18114794,Summon Breaker,서몬 브레이커,サモンブレーカー,サモンブレーカー,,메인,마법,FALSE,준범용,,1,TRUE
 10550,44509898,Pinpoint Guard,핀포인트 가드,ピンポイント・ガード,ピンポイント・ガード,,메인,함정,FALSE,,,0,FALSE
 10551,71098407,Memory Loss,건망증,もの忘れ,ものわすれ,,메인,함정,FALSE,,,0,FALSE
 10552,7092142,Torrential Reborn,격류소생,激流蘇生,げきりゅうそせい,,메인,함정,FALSE,,,0,FALSE
@@ -6014,13 +6014,13 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 10557,79759367,Madolche Nights,마돌체 나이츠,魔導人形の夜,マドルチェ・ナイツ,,메인,함정,FALSE,전용,마돌체,1,TRUE
 10558,6148016,Geargiagear,기아기아기아,ギアギアギア,ギアギアギア,,메인,함정,FALSE,전용,기아기아,0,TRUE
 10559,32542011,High Tide on Fire Island,불타는 대해,燃え上がる大海,もえあがるたいかい,,메인,함정,FALSE,,,0,FALSE
-10560,68937720,Mind Drain,멘탈 드레인,メンタルドレイン,メンタルドレイン,,메인,함정,FALSE,,범용,5,TRUE
+10560,68937720,Mind Drain,멘탈 드레인,メンタルドレイン,メンタルドレイン,,메인,함정,FALSE,범용,범용,5,TRUE
 10561,5325424,Dragoncarnation,아룡전생,牙竜転生,がりょうてんせい,,메인,함정,FALSE,준범용,정룡,0,TRUE
 10562,31320433,Number 47: Nightmare Shark,No.47 나이트메어 샤크,No.47 ナイトメア・シャーク,ナンバーズ４７ ナイトメア・シャーク,,엑스트라,엑시즈,FALSE,범용,샤크,3,TRUE
 10563,68815132,Harpie Dancer,해피 댄서,ハーピィ・ダンサー,ハーピィ・ダンサー,,메인,효과,FALSE,전용,해피,0,TRUE
 10564,94203886,Gagaga Child,가가가 키드,ガガガキッド,ガガガキッド,,메인,효과,FALSE,전용,가고도,0,TRUE
 10565,30608985,Magical Undertaker,매지컬 언더테이커,マジカル・アンダーテイカー,マジカル・アンダーテイカー,,메인,효과,FALSE,,,0,FALSE
-10566,67692580,Caligo Claw Crow,쿠로크로크로우,クロクロークロウ,クロクロークロウ,,메인,효과,FALSE,,범용,14,TRUE
+10566,67692580,Caligo Claw Crow,쿠로크로크로우,クロクロークロウ,クロクロークロウ,,메인,효과,FALSE,전용,범용,14,TRUE
 10567,93087299,Swords of Burning Light,화염의 봉인검,炎の護封剣,ほのおのごふうけん,,메인,마법,FALSE,,,0,FALSE
 10568,30585393,Puzzle Reborn,리본 퍼즐,リボーン・パズル,リボーン・パズル,,메인,함정,FALSE,,,0,FALSE
 10569,66970002,Number C39: Utopia Ray V,CNo.39 유토피아 레이 V,CNo.39 希望皇ホープレイV,カオスナンバーズ３９ きぼうおうホープレイブイ,,엑스트라,엑시즈,FALSE,전용,유토피아,0,TRUE
@@ -6039,7 +6039,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 10583,26570480,Madolche Chickolates,마돌체 표콜렛,マドルチェ・ピョコレート,マドルチェ・ピョコレート,,메인,효과,FALSE,전용,마돌체,0,TRUE
 10584,52575195,Vivid Knight,비비트 나이트,ビビット騎士,ビビットナイト,,메인,효과,FALSE,,,0,FALSE
 10586,15458892,Starship Spy Plane,스타쉽 스파이 프레인,スターシップ・スパイ・プレーン,スターシップ・スパイ・プレーン,,메인,효과,FALSE,,,0,FALSE
-10587,51852507,Rose Archer,로즈 아처,薔薇の聖弓手,ローズ・アーチャー,,메인,효과,FALSE,,,5,TRUE
+10587,51852507,Rose Archer,로즈 아처,薔薇の聖弓手,ローズ・アーチャー,,메인,효과,FALSE,전용,,5,TRUE
 10588,88241506,Maiden with Eyes of Blue,파란 눈의 소녀,青き眼の乙女,あおきめのおとめ,,메인,효과,FALSE,전용,백룡,0,TRUE
 10589,14235211,Rider of the Storm Winds,폭풍룡의 변방지기,暴風竜の防人,ぼうふうりゅうのさきもり,,메인,효과,FALSE,,,0,FALSE
 10590,41620959,Dragon Shrine,용의 영묘,竜の霊廟,りゅうのれいびょう,,메인,마법,FALSE,준범용,범용,55,TRUE
@@ -6444,7 +6444,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 10999,47687766,Geargiauger,기아기아앙그라,ギアギアングラー,ギアギアングラー,,메인,효과,FALSE,전용,기아기아,0,TRUE
 11000,73176465,"Felis, Lightsworn Archer",라이트로드 아처 페리스,ライトロード・アーチャー フェリス,ライトロード・アーチャー　フェリス,,메인,효과,FALSE,전용,라이트로드,6,TRUE
 11001,10560119,Fishborg Doctor,피시보그 닥터,フィッシュボーグ－ドクター,フィッシュボーグ－ドクター,,메인,효과,FALSE,전용,피시보그,0,TRUE
-11002,46565218,Santa Claws,사탄클로스,サタンクロース,サタンクロース,,메인,효과,FALSE,,파괴수,10,TRUE
+11002,46565218,Santa Claws,사탄클로스,サタンクロース,サタンクロース,,메인,효과,FALSE,범용,파괴수,10,TRUE
 11003,72959823,Panzer Dragon,중장기갑 팬저드래곤,重装機甲 パンツァードラゴン,じゅうそうきこう　パンツァードラゴン,,엑스트라,융합,FALSE,준범용,범용,1,TRUE
 11004,9348522,Cloudcastle,부야성,浮鵺城,ふやじょう,,엑스트라,싱크로,FALSE,범용,범용,25,TRUE
 11005,45742626,Pilgrim Reaper,필그림리퍼,巡死神リーパー,ピルグリムリーパー,,엑스트라,엑시즈,FALSE,전용,없음,0,TRUE
@@ -6501,7 +6501,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11060,34968834,"Lucent, Netherlord of Dark World",암흑계의 귀신 켈토,暗黒界の鬼神 ケルト,あんこくかいのきしん　ケルト,,메인,효과,FALSE,전용,암흑계,0,TRUE
 11061,60953949,Ancient Gear Box,앤틱 기어 박스,古代の機械箱,アンティーク・ギアボックス,,메인,효과,FALSE,전용,앤틱기어,3,TRUE
 11062,6351548,Dawn Knight,서광의 기사,曙光の騎士,しょこうのきし,,메인,효과,FALSE,,,0,FALSE
-11063,33746252,Majesty's Fiend,마제스티 데블,威光魔人,マジェスティー・デビル,,메인,효과,FALSE,,,5,TRUE
+11063,33746252,Majesty's Fiend,마제스티 데블,威光魔人,マジェスティー・デビル,,메인,효과,FALSE,범용,,5,TRUE
 11064,69230391,Thestalos the Mega Monarch,난폭한 화염 제왕 테스탈로스,爆炎帝テスタロス,ばくえんていテスタロス,,메인,효과,FALSE,전용,제왕,0,TRUE
 11065,6625096,Beautunaful Princess,꼬마민어 공주,鰤っ子姫,ブリンセス,,메인,효과,FALSE,전용,,8,TRUE
 11066,32623004,Nopenguin,부정 펭귄,否定ペンギン,ひていペンギン,,메인,효과,FALSE,전용,펭귄,0,TRUE
@@ -6546,7 +6546,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11105,48716527,The Monarchs Erupt,제왕의 용격,帝王の溶撃,ていおうのようげき,,메인,함정,FALSE,전용,제왕,0,TRUE
 11106,74100225,Evo-Singularity,진화의 특이점,進化の特異点,しんかのとくいてん,,메인,함정,FALSE,전용,에볼,0,TRUE
 11107,11109820,Xyz Universe,엑시즈 유니버스,エクシーズ・ユニバース,エクシーズ・ユニバース,,메인,함정,FALSE,전용,엑시즈,0,TRUE
-11108,47594939,And the Band Played On,소환제한－디스코드섹터,召喚制限－ディスコードセクター,しょうかんせいげん－ディスコードセクター,,메인,함정,FALSE,,,2,TRUE
+11108,47594939,And the Band Played On,소환제한－디스코드섹터,召喚制限－ディスコードセクター,しょうかんせいげん－ディスコードセクター,,메인,함정,FALSE,범용,,2,TRUE
 11109,73988674,Tri-and-Guess,삼위일택,三位一択,さんみいったく,,메인,함정,FALSE,,,0,TRUE
 11110,387282,Gagaga Sister,가가가 시스터,ガガガシスター,ガガガシスター,,메인,효과,FALSE,전용,가고도,0,TRUE
 11111,46871387,Number 55: Gogogo Goliath,No.55 고고고 골라이아스,No.55 ゴゴゴゴライアス,ナンバーズ５５ ゴゴゴゴライアス,,엑스트라,엑시즈,FALSE,전용,범용,0,TRUE
@@ -6558,7 +6558,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11117,35537251,Battlin' Boxer Shadow,BK 섀도우,BK シャドー,バーニングナックラー　シャドー,,메인,효과,FALSE,전용,버닝나쿠라,0,TRUE
 11118,71921856,Number 79: Battlin' Boxer Nova Kaiser,No.79 BK 항성의 카이저,No.79 BK 新星のカイザー,ナンバーズ７９ バーニングナックラー しんせいのカイザー,,엑스트라,엑시즈,FALSE,전용,범용,0,TRUE
 11119,8316565,Jolt Counter,졸트 카운터,ジョルト・カウンター,ジョルト・カウンター,,메인,함정,FALSE,전용,버닝나쿠라,0,TRUE
-11120,34710660,Electromagnetic Turtle,초전자 터틀,超電磁タートル,ちょうでんじタートル,,메인,효과,FALSE,,범용,2,TRUE
+11120,34710660,Electromagnetic Turtle,초전자 터틀,超電磁タートル,ちょうでんじタートル,,메인,효과,FALSE,준범용,범용,2,TRUE
 11121,60709218,Bond Between Teacher and Student,사제의 연,師弟の絆,していのきずな,,메인,마법,FALSE,전용,블랙매지션,0,TRUE
 11122,7194917,Number 52: Diamond Crab King,No.52 다이아몬드 크랩 킹,No.52 ダイヤモンド・クラブ・キング,ナンバーズ５２ ダイヤモンド・クラブ・キング,,엑스트라,엑시즈,FALSE,전용,범용,0,TRUE
 11123,33698022,Black Rose Moonlight Dragon,월화룡 블랙 로즈,月華竜 ブラック・ローズ,げっかりゅう　ブラック・ローズ,,엑스트라,싱크로,FALSE,범용,로즈,14,TRUE
@@ -6588,7 +6588,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11151,43892408,Dark Magician Girl the Dragon Knight,용기사 블랙 매지션 걸,竜騎士ブラック・マジシャン・ガール,りゅうきしブラック・マジシャン・ガール,,엑스트라,융합,FALSE,전용,블랙매지션,1,TRUE
 11152,89397517,Legend of Heart,레전드 오브 하트,レジェンド・オブ・ハート,レジェンド・オブ・ハート,,메인,마법,FALSE,,,0,FALSE
 11153,15381252,Berserker Soul,버서커 소울,狂戦士の魂,バーサーカー・ソウル,,메인,마법,FALSE,,,0,FALSE
-11154,42776960,Relay Soul,영혼의 릴레이,魂のリレー,たましいのリレー,,메인,함정,FALSE,,,1,TRUE
+11154,42776960,Relay Soul,영혼의 릴레이,魂のリレー,たましいのリレー,,메인,함정,FALSE,범용,,1,TRUE
 11155,18175965,Guardian Dreadscythe,가디언 데스사이스,ガーディアン・デスサイス,ガーディアン・デスサイス,,메인,효과,FALSE,전용,가디언,0,TRUE
 11156,55569674,Celestial Sword - Eatos,여신의 성검－에아토스,女神の聖剣－エアトス,めがみのせいけん－エアトス,,메인,마법,FALSE,전용,성기사,0,TRUE
 11157,81954378,Reaper Scythe - Dreadscythe,사신의 큰 낫－데스사이스,死神の大鎌－デスサイス,しにがみのおおがま－デスサイス,,메인,마법,FALSE,,,0,FALSE
@@ -6601,7 +6601,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11164,16114248,Pair Cycroid,페어싸이크로이드,ペアサイクロイド,ペアサイクロイド,,엑스트라,융합,FALSE,전용,로이드,0,TRUE
 11165,42502956,Ayers Rock Sunrise,에어즈록 선라이즈,エアーズロック・サンライズ,エアーズロック・サンライズ,,메인,마법,FALSE,,,0,FALSE
 11166,79997591,Doble Passe,도블 파세,ドゥーブルパッセ,ドゥーブルパッセ,,메인,함정,FALSE,,,0,FALSE
-11167,15981690,Carboneddon,카보네돈,カーボネドン,カーボネドン,,메인,효과,FALSE,,,19,TRUE
+11167,15981690,Carboneddon,카보네돈,カーボネドン,カーボネドン,,메인,효과,FALSE,전용,,19,TRUE
 11168,41386308,Mathematician,매스매티션,マスマティシャン,マスマティシャン,,메인,효과,FALSE,범용,범용,37,TRUE
 11169,74875003,Ra's Disciple,라의 사도,ラーの使徒,ラーのしと,,메인,효과,FALSE,전용,삼환신,0,TRUE
 11170,269012,Mound of the Bound Creator,신을 묶는 묘,神縛りの塚,かみしばりのつか,,메인,마법,FALSE,전용,삼환신,0,TRUE
@@ -6865,7 +6865,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11427,25005816,Inspiration,고무,鼓舞,こぶ,,메인,함정,FALSE,,,0,FALSE
 11428,51099515,Ghosts From the Past,과거로부터 온 유령들,恐撃,きょうげき,,메인,함정,FALSE,,,0,FALSE
 11429,88494120,Unbreakable Spirit,불굴의 투지,不屈の闘志,ふくつのとうし,,메인,함정,FALSE,,,0,FALSE
-11430,14883228,Typhoon,타이푼,タイフーン,タイフーン,,메인,함정,FALSE,,범용,7,TRUE
+11430,14883228,Typhoon,타이푼,タイフーン,タイフーン,,메인,함정,FALSE,범용,범용,7,TRUE
 11431,50277973,Swamp Mirrorer,경상의 스왐프맨,鏡像のスワンプマン,きょうぞうのスワンプマン,,메인,함정,FALSE,,,0,FALSE
 11432,87772572,Quantum Cat,양자고양이,量子猫,りょうしねこ,,메인,함정,FALSE,,,0,FALSE
 11433,13760677,P.M. Captor,P·M 캡처,P・M・キャプチャー,ピー・エム・キャプチャー,,메인,효과,TRUE,,,0,FALSE
@@ -7070,7 +7070,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11642,60990740,Absolute King Back Jack,절대왕 백 잭,絶対王 バック・ジャック,ぜったいおう　バック・ジャック,,메인,효과,FALSE,준범용,범용,34,TRUE
 11643,96385345,Rose Paladin,로즈 파라딘,薔薇の聖騎士,ローズ・パラディン,,메인,효과,FALSE,,,0,FALSE
 11644,23379054,"Ghost Charon, the Underworld Boatman",겁화의 뱃사공 고스트 카론,劫火の舟守 ゴースト・カロン,ごうかのふなもり　ゴースト・カロン,,메인,효과,FALSE,,,0,FALSE
-11645,69764158,Peropero Cerperus,페로페로케로페로스,ペロペロケルペロス,ペロペロケルペロス,,메인,효과,FALSE,,,5,TRUE
+11645,69764158,Peropero Cerperus,페로페로케로페로스,ペロペロケルペロス,ペロペロケルペロス,,메인,효과,FALSE,전용,,5,TRUE
 11646,96163807,"Tristan, Knight of the Underworld",명계기사 트리스탄,冥界騎士トリスタン,めいかいきしトリスタン,,메인,효과,FALSE,전용,명계,0,TRUE
 11647,22657402,"Isolde, Belle of the Underworld",명계의 미인 이졸데,冥界の麗人イゾルデ,めいかいのれいじんイゾルデ,,메인,효과,FALSE,전용,명계,0,TRUE
 11648,59642500,Masked HERO Anki,마스크드 히어로 암귀,M・HERO 闇鬼,マスクドヒーロー　あんき,,엑스트라,융합,FALSE,전용,히어로,5,TRUE
@@ -7152,7 +7152,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 11725,18326736,Tellarknight Ptolemaeus,테라나이트 프톨레마이오스,星守の騎士 プトレマイオス,テラナイトプトレマイオス,제한,엑스트라,엑시즈,FALSE,전용,테라나이트,12,TRUE
 11726,44311445,Madolche Puddingcess Chocolat-a-la-Mode,마돌체 푸딩세스 쇼코 아 라 모드,マドルチェ・プディンセス・ショコ・ア・ラ・モード,マドルチェ・プディンセス・ショコ・ア・ラ・モード,,엑스트라,엑시즈,FALSE,전용,마돌체,39,TRUE
 11727,71705144,Performapal Recasting,EM 캐스트 체인지,EMキャスト・チェンジ,エンタメイトキャスト・チェンジ,,메인,마법,FALSE,전용,EM,0,TRUE
-11728,17194258,Fusion Conscription,융합 징병,融合徴兵,ゆうごうちょうへい,,메인,마법,FALSE,,,1,TRUE
+11728,17194258,Fusion Conscription,융합 징병,融合徴兵,ゆうごうちょうへい,,메인,마법,FALSE,범용,,1,TRUE
 11729,43698897,Frightfur Factory,데스완구 팩토리,デストーイ・ファクトリー,デストーイ・ファクトリー,,메인,마법,FALSE,전용,퍼니멀,0,TRUE
 11730,70083592,Suture Rebirth,봉합소생,縫合蘇生,ほうごうそせい,,메인,마법,FALSE,전용,퍼니멀,0,TRUE
 11731,6077601,Frightfur Fusion,데스완구 퓨전,魔玩具融合,デストーイ・フュージョン,,메인,마법,FALSE,전용,퍼니멀,1,TRUE
@@ -7766,7 +7766,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 12346,10971759,Bug Emergency,버그 이멀전시,光虫異変,バグ・エマージェンシー,,메인,함정,FALSE,전용,디지털 버그,0,FALSE
 12347,47475363,Drowning Mirror Force,파문의 베리어 －웨이브 포스－,波紋のバリア －ウェーブ・フォース－,はもんのバリア　－ウェーブ・フォース－,,메인,함정,FALSE,전용,미러포스,11,TRUE
 12348,73860462,Wonder Xyz,원더 엑시즈,ワンダー・エクシーズ,ワンダー・エクシーズ,,메인,함정,FALSE,전용,엑시즈,0,FALSE
-12349,19254117,Rise to Full Height,인왕의 수호,仁王立ち,におうだち,,메인,함정,FALSE,,범용,4,TRUE
+12349,19254117,Rise to Full Height,인왕의 수호,仁王立ち,におうだち,,메인,함정,FALSE,전용,범용,4,TRUE
 12350,46253216,Bad Aim,프렌들리 파이어,フレンドリーファイア,フレンドリーファイア,,메인,함정,FALSE,,,0,FALSE
 12351,72648810,Unwavering Bond,흔들리지 않는 연,揺るがぬ絆,ゆるがぬきずな,,메인,함정,FALSE,,,0,FALSE
 12352,9032529,Graceful Tear,천사의 눈물,天使の涙,てんしのなみだ,,메인,함정,FALSE,,,0,FALSE
@@ -7875,7 +7875,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 12463,72772445,Triamid Kingolem,트라미드 킹골렘,トラミッド・キングゴレム,トラミッド・キングゴレム,,메인,마법,FALSE,전용,트라미드,0,TRUE
 12464,8267140,Cosmic Cyclone,코즈믹 싸이크론,コズミック・サイクロン,コズミック・サイクロン,,메인,마법,FALSE,범용,범용,2725,TRUE
 12465,35261759,Pot of Desires,욕망과 탐욕의 항아리,強欲で貪欲な壺,ごうよくでどんよくなつぼ,준제한,메인,마법,FALSE,범용,범용,1043,TRUE
-12466,71650854,Magical Mid-Breaker Field,반마도대역,半魔導帯域,はんまどうたいいき,,메인,마법,FALSE,,범용,14,TRUE
+12466,71650854,Magical Mid-Breaker Field,반마도대역,半魔導帯域,はんまどうたいいき,,메인,마법,FALSE,범용,범용,14,TRUE
 12467,7044562,Card of the Soul,영혼의 카드,魂のカード,たましいのカード,,메인,마법,FALSE,,,0,FALSE
 12468,34449261,Fusion Fright Waltz,퓨전 데스 왈츠,融合死円舞曲,フュージョン・デス・ワルツ,,메인,함정,FALSE,전용,퍼니멀,0,TRUE
 12469,60433216,King Scarlet,킹 스카레트,キング・スカーレット,キング・スカーレット,,메인,함정,FALSE,,,0,FALSE
@@ -7942,7 +7942,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 12531,33103459,Performapal Corn,EM 콘,EMコン,エンタメイトコン,,메인,효과,FALSE,전용,EM,0,TRUE
 12532,60508057,Raidraptor - Napalm Dragonius,RR－네이팜 드라고니어스,RR－ナパーム・ドラゴニアス,レイド・ラプターズ－ナパーム・ドラゴニアス,,메인,효과,FALSE,전용,RR,0,TRUE
 12533,96592102,Raidraptor - Blade Burner Falcon,RR－블레이드 버너 팔콘,RR－ブレード・バーナー・ファルコン,レイド・ラプターズ－ブレード・バーナー・ファルコン,,엑스트라,엑시즈,FALSE,전용,RR,0,TRUE
-12539,95658967,Ritual Sanctuary,축복의 교회－리츄얼 처치,祝福の教会－リチューアル・チャーチ,しゅくふくのきょうかい－リチューアル・チャーチ,,메인,마법,FALSE,,범용,1,TRUE
+12539,95658967,Ritual Sanctuary,축복의 교회－리츄얼 처치,祝福の教会－リチューアル・チャーチ,しゅくふくのきょうかい－リチューアル・チャーチ,,메인,마법,FALSE,준범용,범용,1,TRUE
 12540,21142671,Red Nova,레드 노바,レッド・ノヴァ,レッド・ノヴァ,,메인,효과,FALSE,,,0,FALSE
 12541,67547370,Zushin the Sleeping Giant,잠자는 거인 즈신,眠れる巨人ズシン,ねむれるきょじんズシン,,메인,효과,FALSE,,,0,FALSE
 12542,94535485,Hand-Holding Genie,손 잡는 마인,手をつなぐ魔人,てをつなぐまじん,,메인,효과,FALSE,,,0,FALSE
@@ -8026,7 +8026,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 12620,80250319,Graydle Slime Jr.,그레이돌 슬라임Jr.,グレイドル・スライムJr.,グレイドル・スライムジュニア,,메인,효과,FALSE,전용,그레이돌,0,TRUE
 12621,16759958,Aromaseraphy Angelica,아로마세라피－안젤리카,アロマセラフィ－アンゼリカ,アロマセラフィ－アンゼリカ,,메인,효과,FALSE,전용,아로마세라피,4,TRUE
 12622,42143067,Doki Doki,노기토기,怒気土器,どきどき,,메인,효과,FALSE,전용,암석계,252,TRUE
-12623,79538761,Torque Tune Gear,토크튠 기어,トルクチューン・ギア,トルクチューン・ギア,,메인,효과,FALSE,,,3,TRUE
+12623,79538761,Torque Tune Gear,토크튠 기어,トルクチューン・ギア,トルクチューン・ギア,,메인,효과,FALSE,전용,,3,TRUE
 12624,15936370,Pandora's Jewelry Box,판도라의 보구함,パンドラの宝具箱,パンドラのほうぐばこ,,메인,효과,TRUE,,,0,FALSE
 12625,42921475,Fairy Tail - Sleeper,페어리테일－타리아,妖精伝姫－ターリア,フェアリーテイル－ターリア,,메인,효과,FALSE,전용,페어리테일,0,TRUE
 12626,78316184,Cyber Angel Vrash,사이버 엔젤－비슈누－,サイバー・エンジェル－美朱濡－,サイバー・エンジェル－ビシュヌ－,,메인,의식,FALSE,전용,사이버 엔젤,0,FALSE
@@ -8272,7 +8272,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 12869,33541430,Flower Cardian Moonflowerviewing,카디언－츠키하나미－,花札衛－月花見－,カーディアン－つきはなみ－,,엑스트라,싱크로,FALSE,전용,카디언,0,TRUE
 12870,69946549,Predaplant Dragostapelia,프레데터 플랜츠 드라고스타페리아,捕食植物ドラゴスタペリア,プレデター・プランツドラゴスタペリア,,엑스트라,융합,FALSE,준범용,프레데터,2018,TRUE
 12871,96334243,Sea Monster of Theseus,테세우스의 마서물,テセウスの魔棲物,テセウスのませいぶつ,,엑스트라,융합,FALSE,준범용,범용,5,TRUE
-12872,22829942,Fusion Recycling Plant,융합재생기구,融合再生機構,ゆうごうさいせいきこう,,메인,마법,FALSE,,범용,1,TRUE
+12872,22829942,Fusion Recycling Plant,융합재생기구,融合再生機構,ゆうごうさいせいきこう,,메인,마법,FALSE,범용,범용,1,TRUE
 12873,68823957,Subterror Nemesis Defender,서브테러의 도장,サブテラーの刀匠,サブテラーのとうしょう,,메인,효과,FALSE,전용,서브테러,0,TRUE
 12874,95218695,Subterror Behemoth Dragossuary,서브테러마리스 아루라본,サブテラーマリス・アルラボーン,サブテラーマリス・アルラボーン,,메인,효과,FALSE,전용,서브테러,0,TRUE
 12875,21607304,Subterror Behemoth Voltelluric,서브테러마리스 볼티니아,サブテラーマリス・ボルティニア,サブテラーマリス・ボルティニア,,메인,효과,FALSE,전용,서브테러,0,TRUE
@@ -8428,7 +8428,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13027,73828446,SPYRAL GEAR - Fully Armed,SPYRAL GEAR－엑스트라암즈,SPYRAL GEAR－エクストラアームズ,スパイラル　ギア－エクストラアームズ,,메인,마법,FALSE,전용,SPYRAL,0,TRUE
 13028,9212051,SPYRAL MISSION - Rescue,SPYRAL MISSION－구출,SPYRAL MISSION－救出,スパイラル　ミッション－きゅうしゅつ,,메인,함정,FALSE,전용,SPYRAL,105,TRUE
 13029,36211150,Bitron,비트론,ビットロン,ビットロン,,메인,일반,FALSE,,,0,FALSE
-13030,62706865,Draconnet,드라코넷,ドラコネット,ドラコネット,,메인,효과,FALSE,,,9,TRUE
+13030,62706865,Draconnet,드라코넷,ドラコネット,ドラコネット,,메인,효과,FALSE,준범용,,9,TRUE
 13031,9190563,RAM Clouder,RAM 클라우더,RAMクラウダー,ラムクラウダー,,메인,효과,FALSE,,,0,FALSE
 13032,35595518,Linkslayer,링크슬레이어,リンクスレイヤー,リンクスレイヤー,,메인,효과,FALSE,전용,링크,2,TRUE
 13033,61583217,Cynet Universe,사이바넷 유니버스,サイバネット・ユニバース,サイバネット・ユニバース,,메인,마법,FALSE,전용,사이바넷,0,TRUE
@@ -8440,7 +8440,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13038,73240432,Edge Imp Cotton Eater,에지임프 코튼 이터,エッジインプ・コットン・イーター,エッジインプ・コットン・イーター,,메인,효과,TRUE,전용,퍼니멀,0,TRUE
 13039,645087,Cyberse Gadget,사이버스 가제트,サイバース・ガジェット,サイバース・ガジェット,,메인,효과,FALSE,준범용,범용,44,TRUE
 13040,36033786,Cyberse Wizard,사이버스 위저드,サイバース・ウィザード,サイバース・ウィザード,,메인,효과,FALSE,전용,사이버스,0,TRUE
-13041,63528891,Backup Secretary,백업 세크레터리,バックアップ・セクレタリー,バックアップ・セクレタリー,,메인,효과,FALSE,,,11,TRUE
+13041,63528891,Backup Secretary,백업 세크레터리,バックアップ・セクレタリー,バックアップ・セクレタリー,,메인,효과,FALSE,준범용,,11,TRUE
 13042,9523599,Stack Reviver,스택 리바이버,スタック・リバイバー,スタック・リバイバー,,메인,효과,FALSE,,,0,FALSE
 13043,35911108,Launcher Commander,런처 커맨더,ランチャー・コマンダー,ランチャー・コマンダー,,메인,효과,FALSE,,,0,FALSE
 13044,62306203,Salvagent Driver,샐비전트 드라이버,サルベージェント・ドライバー,サルベージェント・ドライバー,,메인,효과,FALSE,,,0,FALSE
@@ -8653,7 +8653,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13250,70298454,Leng Ling,비익 렌린,比翼レンリン,ひよくレンリン,,메인,효과,FALSE,,,0,FALSE
 13251,6783559,Self-Destruct Ant,아리지바크,アリジバク,アリジバク,,메인,효과,FALSE,,,0,FALSE
 13252,32181268,Amano-Iwato,아마노이와토,天岩戸,アマノイワト,,메인,효과,FALSE,준범용,범용,110,TRUE
-13253,79176962,Fantastic Striborg,선풍기 스트리보그,旋風機ストリボーグ,せんぷうきストリボーグ,,메인,효과,FALSE,,범용,2,TRUE
+13253,79176962,Fantastic Striborg,선풍기 스트리보그,旋風機ストリボーグ,せんぷうきストリボーグ,,메인,효과,FALSE,준범용,범용,2,TRUE
 13254,5560911,Destrudo the Lost Dragon's Frisson,망룡의 전율－데스트루도,亡龍の戦慄－デストルドー,ぼうりゅうのせんりつ－デストルドー,,메인,효과,FALSE,범용,범용,282,TRUE
 13255,32965616,Elemental Grace Doriado,엘리멘틀 그레이스 드리야드,精霊神后 ドリアード,エレメンタルグレイス　ドリアード,,메인,효과,FALSE,,,0,FALSE
 13256,68353324,Nimble Beaver,재빠른 비버,素早いビーバー,すばやいビーバー,,메인,효과,FALSE,준범용,범용,889,TRUE
@@ -8826,7 +8826,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13429,38325384,Mythical Bestiary,매직 부스트,魔導加速,マジック・ブースト,,메인,마법,FALSE,전용,매직비스트,2,TRUE
 13430,75719089,Glory of the Noble Knights,영광의 성기사단,栄光の聖騎士団,えいこうのせいきしだん,,메인,마법,FALSE,전용,성기사,0,TRUE
 13431,1118137,Power of the Guardians,가디언의 힘,ガーディアンの力,ガーディアンのちから,,메인,마법,FALSE,전용,범용,0,TRUE
-13432,38203732,Pendulum Paradox,펜듈럼 패러독스,ペンデュラム・パラドックス,ペンデュラム・パラドックス,,메인,마법,FALSE,,범용,1,TRUE
+13432,38203732,Pendulum Paradox,펜듈럼 패러독스,ペンデュラム・パラドックス,ペンデュラム・パラドックス,,메인,마법,FALSE,범용,범용,1,TRUE
 13433,64697431,"Hey, Trunade!",국소적 허리케인,局所的ハリケーン,きょくしょてきハリケーン,,메인,마법,FALSE,준범용,범용,9,TRUE
 13434,96540,Downbeat,다운비트,ダウンビート,ダウンビート,,메인,마법,FALSE,,,0,FALSE
 13435,37480144,Column Switch,아스포트,アスポート,アスポート,,메인,마법,FALSE,전용,벨리언츠,0,TRUE
@@ -8902,7 +8902,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13508,50588353,Crystron Halqifibrax,크리스트론－하리파이버,水晶機巧－ハリファイバー,クリストロン－ハリファイバー,금지,엑스트라,링크,FALSE,범용,크리스트론,853,TRUE
 13509,97973962,Aleister the Invoker of Madness,폭주소환사 알레이스터,暴走召喚師アレイスター,ぼうそうしょうかんしアレイスター,,엑스트라,링크,FALSE,전용,소환수,4,TRUE
 13510,23971061,Doublebyte Dragon,더블바이트 드래곤,ダブルバイト・ドラゴン,ダブルバイト・ドラゴン,,엑스트라,링크,FALSE,전용,없음,0,TRUE
-13511,50366775,Formud Skipper,포맷 스킵퍼,フォーマッド・スキッパー,フォーマッド・スキッパー,,메인,효과,FALSE,,,2,TRUE
+13511,50366775,Formud Skipper,포맷 스킵퍼,フォーマッド・スキッパー,フォーマッド・スキッパー,,메인,효과,FALSE,준범용,,2,TRUE
 13512,86750474,Trickstar Foxglove Witch,트릭스터 폭시위치,トリックスター・フォクシーウィッチ,トリックスター・フォクシーウィッチ,,엑스트라,링크,FALSE,전용,트릭스터,0,TRUE
 13513,22159429,Trickstar Magical Laurel,트릭스터 매지캐롤라,トリックスター・マジカローラ,トリックスター・マジカローラ,,메인,마법,FALSE,전용,트릭스터,0,TRUE
 13514,59644128,Gouki Jet Ogre,강귀 제트 오우거,剛鬼ジェット・オーガ,ごうきジェット・オーガ,,엑스트라,링크,FALSE,전용,강귀,0,TRUE
@@ -9079,7 +9079,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13685,12766474,"Duke Shade, the Sinister Shadow Lord",영왕 듀크셰이드,影王デュークシェード,かげおうデュークシェード,,메인,효과,FALSE,,,0,FALSE
 13686,59160188,Lair of Darkness,암흑세계－섀도우 디스토피아－,闇黒世界－シャドウ・ディストピア－,あんこくせかい－シャドウ・ディストピア－,,메인,마법,FALSE,전용,인페르노이드,4,TRUE
 13687,85555787,Grinning Grave Virus,악의 덱 파괴 바이러스,悪のデッキ破壊ウイルス,あくのデッキはかいウイルス,,메인,함정,FALSE,범용,범용,0,TRUE
-13689,48048590,Keeper of Dragon Magic,용마도의 수호자,竜魔導の守護者,りゅうまどうのしゅごしゃ,,메인,효과,FALSE,,,6,TRUE
+13689,48048590,Keeper of Dragon Magic,용마도의 수호자,竜魔導の守護者,りゅうまどうのしゅごしゃ,,메인,효과,FALSE,준범용,,6,TRUE
 13690,84433295,Quintet Magician,퀸텟 매지션,クインテット・マジシャン,クインテット・マジシャン,,엑스트라,융합,FALSE,전용,범용,0,TRUE
 13691,11827244,Magicalized Fusion,매지컬라이즈 퓨전,円融魔術,マジカライズ・フュージョン,,메인,마법,FALSE,준범용,범용,3,TRUE
 13692,47226949,Leotron,라이드론,ライドロン,ライドロン,,메인,일반,FALSE,,,0,FALSE
@@ -9092,7 +9092,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13699,72336818,Pentestag,펜테스태그,ペンテスタッグ,ペンテスタッグ,,엑스트라,링크,FALSE,범용,범용,5,TRUE
 13700,8820526,Performapal Clay Breaker,EM 클레이브레이커,EMクレイブレイカー,エンタメイトクレイブレイカー,,메인,효과,FALSE,전용,EM,0,TRUE
 13701,45215225,Fluffal Angel,퍼니멀 엔젤,ファーニマル・エンジェル,ファーニマル・エンジェル,,메인,효과,TRUE,전용,퍼니멀,0,TRUE
-13702,71614230,Kai-Den Kendo Spirit,켄도 스피릿 KAI－DEN,ケンドウ魂 KAI－DEN,ケンドウスピリット　カイデン,,메인,효과,TRUE,,범용,9,TRUE
+13702,71614230,Kai-Den Kendo Spirit,켄도 스피릿 KAI－DEN,ケンドウ魂 KAI－DEN,ケンドウスピリット　カイデン,,메인,효과,TRUE,준범용,범용,9,TRUE
 13703,8608979,Super Team Buddy Force Unite!,일족의 결집,一族の結集,いちぞくのけっしゅう,,메인,함정,FALSE,준범용,범용,0,TRUE
 13704,34093683,Revendread Executor,리벤데드 이그제커터,リヴェンデット・エグゼクター,リヴェンデット・エグゼクター,,메인,의식,FALSE,전용,벤데드,0,TRUE
 13705,70491682,Vendread Anima,벤데드 아니마,ヴェンデット・アニマ,ヴェンデット・アニマ,,메인,효과,FALSE,전용,벤데드,0,TRUE
@@ -9339,7 +9339,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 13947,95238394,Thunder Dragon Fusion,썬더 드래곤 퓨전,雷龍融合,サンダー・ドラゴン・フュージョン,,메인,마법,FALSE,준범용,썬더드래곤,146,TRUE
 13948,21623008,Sky Striker Maneuver - Vector Blast,섬도술식－백터드블래스트,閃刀術式－ベクタードブラスト,せんとうじゅつしき－ベクタードブラスト,,메인,마법,FALSE,전용,섬도,0,TRUE
 13949,58012707,Giant Ballpark,G 볼파크,G・ボールパーク,ジャイアント・ボールパーク,,메인,마법,FALSE,전용,G,2,TRUE
-13950,94016752,Herald of the Abyss,심연의 선고자,深淵の宣告者,しんえんのせんこくしゃ,,메인,마법,FALSE,,범용,46,TRUE
+13950,94016752,Herald of the Abyss,심연의 선고자,深淵の宣告者,しんえんのせんこくしゃ,,메인,마법,FALSE,범용,범용,46,TRUE
 13951,20501450,Concentrating Current,컨센트레이트,コンセントレイト,コンセントレイト,,메인,마법,FALSE,,,0,FALSE
 13952,57995165,Extra-Foolish Burial,어리석은 중장,おろかな重葬,おろかなじゅうそう,,메인,마법,FALSE,준범용,범용,42,TRUE
 13953,93394164,Parallel Panzer,패러렐 팬저,パラレル・パンツァー,パラレル・パンツァー,,메인,마법,FALSE,,,0,FALSE
@@ -9462,7 +9462,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 14074,24027078,"Morgan, the Enchantress of Avalon",아발론의 마녀 모르간,アヴァロンの魔女モルガン,アヴァロンのまじょモルガン,,메인,효과,FALSE,전용,성기사,0,TRUE
 14075,51412776,Heritage of the Chalice,성배의 계승,聖杯の継承,せいはいのけいしょう,,메인,마법,FALSE,전용,성기사,1,TRUE
 14076,87800375,Until Noble Arms are Needed Once Again,성검이 이끄는 미래,聖剣の導く未来,せいけんのみちびくみらい,,메인,함정,FALSE,전용,성기사,0,TRUE
-14078,50690129,Catche Eve L2,캬시 이브 L2,キャシー・イヴL２,キャシー・イヴエル２,,메인,효과,FALSE,,범용,10,TRUE
+14078,50690129,Catche Eve L2,캬시 이브 L2,キャシー・イヴL２,キャシー・イヴエル２,,메인,효과,FALSE,전용,범용,10,TRUE
 14079,86784733,Cyberse Synchron,사이버스 싱크론,サイバース・シンクロン,サイバース・シンクロン,,메인,효과,FALSE,전용,사이버스,0,TRUE
 14080,13173832,Salamangreat Wolvie,샐러맨그레이트 울비,転生炎獣ウルヴィー,サラマングレイトウルヴィー,,메인,효과,FALSE,전용,샐러맨그레이트,0,TRUE
 14081,59577547,Salamangreat Parro,샐러맨그레이트 패로,転生炎獣パロー,サラマングレイトパロー,,메인,효과,FALSE,전용,샐러맨그레이트,0,TRUE
@@ -9719,7 +9719,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 14345,95463814,Phantasm Emperor Trilojig,환마 제왕 트릴로지그,幻魔帝トリロジーグ,げんまていトリロジーグ,,엑스트라,융합,FALSE,전용,환마,0,TRUE
 14346,21858819,Number XX: Utopic Dark Infinity,No.XX 인피니티 다크호프,No.XX インフィニティ・ダークホープ,ナンバーズダブルエックス　インフィニティ・ダークホープ,,엑스트라,엑시즈,FALSE,전용,유토피아,7,TRUE
 14347,57246528,Synchro Transcend,싱크로 트랜센드,シンクロ・トランセンド,シンクロ・トランセンド,,메인,마법,FALSE,전용,싱크로,0,TRUE
-14348,84731222,Memories of Hope,희망의 기억,希望の記憶,きぼうのきおく,,메인,마법,FALSE,,,10,TRUE
+14348,84731222,Memories of Hope,희망의 기억,希望の記憶,きぼうのきおく,,메인,마법,FALSE,전용,,10,TRUE
 14349,20735371,Bye Bye Damage,바이바이 데미지,バイバイダメージ,バイバイダメージ,,메인,함정,FALSE,,,0,FALSE
 14351,83518674,Danger! Ogopogo!,미계역의 오고포고,未界域のオゴポゴ,みかいいきのオゴポゴ,,메인,효과,FALSE,준범용,미계역,2,TRUE
 14352,29913783,Super Anti-Kaiju War Machine Mecha-Thunder-King,대파괴수용결전병기 메카썬더 킹,対壊獣用決戦兵器メカサンダー・キング,たいかいじゅうようけっせんへいきメカサンダー・キング,,메인,효과,FALSE,전용,파괴수,0,TRUE
@@ -9747,7 +9747,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 14374,70168345,Dark Magic Twin Burst,흑·마·도·연·탄,黒・魔・導・連・弾,ブラックツインバースト,,메인,마법,FALSE,전용,블랙매지션,0,TRUE
 14375,13556444,Stardust Mirage,스타더스트 미라지,スターダスト・ミラージュ,スターダスト・ミラージュ,,메인,함정,FALSE,전용,스타더스트,0,TRUE
 14376,49941059,Magic Gate of Miracles,기적의 매직 게이트,奇跡のマジック・ゲート,きせきのマジック・ゲート,,메인,마법,FALSE,,,0,FALSE
-14377,76045757,Dark Sacrifice,대역의 암흑,身代わりの闇,みがわりのやみ,,메인,함정,FALSE,,범용,7,TRUE
+14377,76045757,Dark Sacrifice,대역의 암흑,身代わりの闇,みがわりのやみ,,메인,함정,FALSE,범용,범용,7,TRUE
 14378,2434862,Cubic Ascension,방계강세,方界降世,ほうかいごうぜ,,메인,함정,FALSE,전용,방계,0,TRUE
 14379,48829461,Malefic Paradox Gear,Sin 패러독스 기어,Sin パラドクスギア,シン パラドクスギア,,메인,효과,FALSE,전용,Sin,0,TRUE
 14380,75223115,Malefic Territory,Sin 테리토리,Sin Territory,シン テリトリー,,메인,마법,FALSE,전용,Sin,0,TRUE
@@ -9901,7 +9901,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 14527,59778096,World Legacy Bestowal,성유물의 선탁,星遺物の選託,せいいぶつのせんたく,,메인,함정,FALSE,전용,성유물,0,TRUE
 14528,85862791,Fighting Dirty,드로우게임,泥仕合,ドローゲーム,,메인,함정,FALSE,,,0,FALSE
 14529,21251800,Light Bringer Lucifer,빛을 가져오는 자 루시퍼,光をもたらす者 ルシファー,ひかりをもたらすもの ルシファー,,메인,일반,FALSE,,,0,FALSE
-14530,58655504,Gnomaterial,노머티리어,ノーマテリア,ノーマテリア,,메인,효과,FALSE,,,16,TRUE
+14530,58655504,Gnomaterial,노머티리어,ノーマテリア,ノーマテリア,,메인,효과,FALSE,범용,,16,TRUE
 14531,84040113,Muddy Mudragon,도로도로곤,ドロドロゴン,ドロドロゴン,,엑스트라,싱크로,FALSE,전용,도로곤,7,TRUE
 14532,11434258,Saryuja's Shackles,사룡의 가쇄,蛇龍の枷鎖,だりゅうのかさ,,메인,함정,FALSE,,,0,FALSE
 14533,57433966,Danger! Excitement! Mystery!,매혹의 미계역,魅惑の未界域,みわくのみかいいき,,메인,마법,FALSE,전용,미계역,0,TRUE
@@ -9952,8 +9952,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 14579,52615248,Progleo,푸로그레오,プログレオ,プログレオ,,엑스트라,링크,FALSE,전용,없음,0,TRUE
 14580,88000953,Rasterliger,래스터라이거,ラスタライガー,ラスタライガー,,엑스트라,링크,FALSE,전용,없음,0,TRUE
 14581,14509651,Curse Necrofear,커스 네크로피어,カース・ネクロフィア,カース・ネクロフィア,,메인,효과,FALSE,,,0,TRUE
-14582,51993760,Dark Spirit of Banishment,말살의 사악령,抹殺の邪悪霊,まっさつのダーク・スピリット,,메인,효과,FALSE,,,2,TRUE
-14583,87988305,Dark Spirit of Malice,원한의 사악령,怨念の邪悪霊,おんねんのダーク・スピリット,,메인,효과,FALSE,,,2,TRUE
+14582,51993760,Dark Spirit of Banishment,말살의 사악령,抹殺の邪悪霊,まっさつのダーク・スピリット,,메인,효과,FALSE,전용,,2,TRUE
+14583,87988305,Dark Spirit of Malice,원한의 사악령,怨念の邪悪霊,おんねんのダーク・スピリット,,메인,효과,FALSE,전용,,2,TRUE
 14584,14386013,Dark Spirit's Mastery,다크 오컬티즘,ダーク・オカルティズム,ダーク・オカルティズム,,메인,마법,FALSE,준범용,범용,2,TRUE
 14585,40771118,Sentence of Doom,죽음의 선고,死の宣告,しのせんこく,,메인,함정,FALSE,,,0,TRUE
 14586,86165817,Evil HERO Malicious Bane,이블 히어로 마리셔스 베인,E-HERO マリシャス・ベイン,イービルヒーロー　マリシャス・ベイン,,엑스트라,융합,FALSE,전용,히어로,0,TRUE
@@ -9977,7 +9977,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 14604,8148322,Predaprime Fusion,프레데터 프라임 퓨전,プレデター・プライム・フュージョン,プレデター・プライム・フュージョン,,메인,마법,FALSE,전용,프레데터,1,TRUE
 14605,44536921,Predaplanning,프레데터 플래닝,捕食計画,プレデター・プランニング,,메인,함정,FALSE,전용,프레데터,4,TRUE
 14606,71521025,Red Blossoms from Underroot,붉은 벚꽃,カクリヨノチザクラ,カクリヨノチザクラ,,메인,효과,FALSE,,,0,FALSE
-14607,7925734,Link Apple,링크애플,リンクアップル,リンクアップル,,메인,효과,FALSE,,,1,TRUE
+14607,7925734,Link Apple,링크애플,リンクアップル,リンクアップル,,메인,효과,FALSE,범용,,1,TRUE
 14608,33314479,Flying Red Carp,플라잉어,飛鯉,ひごい,,메인,효과,FALSE,,,0,FALSE
 14609,70709488,Shinobi Insect Hagakuremino,충인 하가쿠레미노,虫忍 ハガクレミノ,チュウニン　ハガクレミノ,,엑스트라,링크,FALSE,전용,없음,1,TRUE
 14610,6203182,Two Toads with One Sting,일석이조,一惜二跳,いっせきにちょう,,메인,마법,FALSE,,,0,FALSE
@@ -10011,7 +10011,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 14640,88996322,Gladiator Beast Vespasius,검투수 웨스파시아스,剣闘獣ウェスパシアス,グラディアルビーストウェスパシアス,,메인,효과,FALSE,전용,검투수,0,TRUE
 14641,15381421,Starliege Seyfert,휘광룡 세이퍼트,輝光竜セイファート,きこうりゅうセイファート,,메인,효과,FALSE,전용,갤럭시,72,TRUE
 14642,51786039,Nebula Dragon,성운룡 네뷸라,星雲龍ネビュラ,せいうんりゅうネビュラ,,메인,효과,FALSE,전용,갤럭시,1,TRUE
-14643,88774734,Galactic Spiral Dragon,나선룡 바루지,螺旋竜バルジ,らせんりゅうバルジ,,메인,효과,FALSE,,범용,1,TRUE
+14643,88774734,Galactic Spiral Dragon,나선룡 바루지,螺旋竜バルジ,らせんりゅうバルジ,,메인,효과,FALSE,준범용,범용,1,TRUE
 14644,14169843,Aromage Laurel,아로마지－로리에,アロマージ－ローリエ,アロマージ－ローリエ,,메인,효과,FALSE,전용,아로마세라피,4,TRUE
 14645,40663548,Aromage Marjoram,아로마지－마죠람,アロマージ－マジョラム,アロマージ－マジョラム,,메인,효과,FALSE,전용,아로마세라피,0,TRUE
 14646,87052196,Tenyi Spirit - Ashuna,천위룡－아슈나,天威龍－アシュナ,てんいりゅう－アシュナ,,메인,효과,FALSE,준범용,천위,448,TRUE
@@ -10381,7 +10381,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 15013,68199168,"Harr, Generaider Boss of Storms",포효의 제너레이드 하르,轟の王 ハール,とどろきのジェネレイド　ハール,,메인,효과,FALSE,전용,제너레이드,6,TRUE
 15014,94183877,"Loptr, Shadow of the Generaider Bosses",제너레이드 섀도우 로프톨,王の影 ロプトル,ジェネレイド・シャドウ　ロプトル,,메인,효과,FALSE,전용,제너레이드,9,TRUE
 15015,31588572,Unchained Twins - Sarama,언체인드트윈스 사라마,破械童子サラマ,はかいどうじサラマ,,메인,효과,FALSE,전용,언체인드,7,TRUE
-15016,63972571,King Beast Barbaros,수신왕 바르바로스,獣神王バルバロス,じゅうしんおうバルバロス,,메인,효과,FALSE,,범용,1,TRUE
+15016,63972571,King Beast Barbaros,수신왕 바르바로스,獣神王バルバロス,じゅうしんおうバルバロス,,메인,효과,FALSE,전용,범용,1,TRUE
 15017,90361289,"Gizmek Uka, the Festive Fox of Fecundity",기교호－우카노미타마노이나리,機巧狐－宇迦之御魂稲荷,きこうこ－ウカノミタマノイナリ,,메인,효과,FALSE,준범용,기교,6,TRUE
 15018,26866984,Trias Hierarchia,토리아스 히에라루키아,トリアス・ヒエラルキア,トリアス・ヒエラルキア,,메인,효과,FALSE,준범용,범용,7,TRUE
 15019,62850093,Cataclysmic Circumpolar Chilblainia,빙천재앙 칠브레인,氷天禍チルブレイン,ひょうてんかチルブレイン,,메인,효과,FALSE,,,0,FALSE
@@ -10391,7 +10391,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 15022,52038442,Ghost Mourner & Moonlit Chill,사요 시구레,朔夜しぐれ,さよしぐれ,,메인,효과,FALSE,범용,유령소녀,574,TRUE
 15023,98022050,Animadorned Archosaur,주옥수－아르고사우르스,珠玉獣－アルゴザウルス,しゅぎょくじゅう－アルゴザウルス,,메인,효과,FALSE,전용,공룡,51,TRUE
 15024,24521754,Goldilocks the Battle Landscaper,랜드스케이퍼 고르디록스,百景戦都ゴルディロックス,ランドスケーパーゴルディロックス,,메인,효과,FALSE,,,0,FALSE
-15025,51916853,Magical Hound,매지컬 하운드,マジカル・ハウンド,マジカル・ハウンド,,메인,효과,FALSE,,범용,7,TRUE
+15025,51916853,Magical Hound,매지컬 하운드,マジカル・ハウンド,マジカル・ハウンド,,메인,효과,FALSE,준범용,범용,7,TRUE
 15026,97300502,Invoked Augoeides,소환수 아우고에이데스,召喚獣アウゴエイデス,しょうかんじゅうアウゴエイデス,,엑스트라,융합,FALSE,준범용,소환수,65,TRUE
 15027,24799107,Dragonmaid Sheou,드래곤메이드 슈트럴,ドラゴンメイド・シュトラール,ドラゴンメイド・シュトラール,,엑스트라,융합,FALSE,전용,드래곤메이드,66,TRUE
 15028,50793215,Deep Sea Prima Donna,심해희 프리마도나,深海姫プリマドーナ,しんかいひプリマドーナ,,엑스트라,싱크로,FALSE,전용,심해의,1,TRUE
@@ -10634,7 +10634,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 15350,37042505,Everlasting Alloy,불후의 특수합금,不朽の特殊合金,ふきゅうのとくしゅごうきん,,메인,마법,FALSE,전용,인조인간,0,TRUE
 15363,50354944,Gaia the Fierce Knight Origin,암흑 기사 가이아오리진,暗黒騎士ガイアオリジン,あんこくきしガイアオリジン,,메인,효과,FALSE,전용,가이아,0,FALSE
 15364,87742943,Powered Crawler,파워드 크로울러,パワードクロウラー,パワードクロウラー,,메인,효과,FALSE,,,0,FALSE
-15365,23147658,Weathering Soldier,웨더링솔저,風化戦士,ウェザリングソルジャー,,메인,효과,FALSE,,땅,6,TRUE
+15365,23147658,Weathering Soldier,웨더링솔저,風化戦士,ウェザリングソルジャー,,메인,효과,FALSE,전용,땅,6,TRUE
 15366,59531356,Fossil Warrior Skull Knight,중생대 화석 기사 스컬나이트,中生代化石騎士 スカルナイト,ちゅうせいだいかせききし　スカルナイト,,엑스트라,융합,FALSE,범용,범용,83,TRUE
 15367,86520461,Fossil Warrior Skull Bone,신생대 화석 기사 스컬폰,新生代化石騎士 スカルポーン,しんせいだいかせききし　スカルポーン,,엑스트라,융합,FALSE,전용,화석,0,TRUE
 15368,12015000,Fossil Dragon Skullgar,신생대 화석룡 스컬가,新生代化石竜 スカルガー,しんせいだいかせきりゅう　スカルガー,,엑스트라,융합,FALSE,전용,화석,2,TRUE
@@ -10679,7 +10679,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 15408,65046521,Possessed Partnerships,빙의 연계,憑依連携,ひょういれんけい,,메인,함정,FALSE,전용,령사,2,TRUE
 15409,91530236,Spirit Charmers,정령술의 마스터,精霊術の使い手,せいれいじゅつのつかいて,,메인,마법,FALSE,전용,령사,3,TRUE
 15461,90788081,Hundred Dragon,백년룡,百年竜,ハンドレッド・ドラゴン,,메인,효과,FALSE,,,0,FALSE
-15462,26273196,Time Wizard of Tomorrow,시간의 마도사,時の魔導士,ときのまどうし,,엑스트라,융합,FALSE,기타,융합,1,TRUE
+15462,26273196,Time Wizard of Tomorrow,시간의 마도사,時の魔導士,ときのまどうし,,엑스트라,융합,FALSE,준범용,융합,1,TRUE
 15463,63261835,Cyber Slash Harpie Lady,해피 레이디·SC,ハーピィ・レディ・SC,ハーピィ・レディ・スクラッチ・クラッシュ,,엑스트라,싱크로,FALSE,준범용,해피,9,TRUE
 15464,99666430,Jinzo - Layered,인조인간－사이코 레이어,人造人間－サイコ・レイヤー,じんぞうにんげん－サイコ・レイヤー,,엑스트라,엑시즈,FALSE,준범용,인조인간,1,TRUE
 15465,26050548,Extox Hydra,엑스톡스 하이드라,エクストクス・ハイドラ,エクストクス・ハイドラ,,엑스트라,융합,FALSE,전용,없음,0,TRUE
@@ -10776,7 +10776,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 15557,11429811,Warning Point,워닝포인트,ワーニングポイント,ワーニングポイント,,메인,함정,FALSE,,,0,TRUE
 15558,48814566,Banquet of Millions,피드 팩,魔獣の大餌,フィード・パック,,메인,함정,FALSE,준범용,,0,TRUE
 15559,74202664,One or Eight,모 아니면 도,一か八か,いちかばちか,,메인,함정,FALSE,,,0,FALSE
-15563,545781,Mahaama the Fairy Dragon,요룡 마하마,妖竜マハーマ,ようりゅうマハーマ,,메인,효과,FALSE,,,3,TRUE
+15563,545781,Mahaama the Fairy Dragon,요룡 마하마,妖竜マハーマ,ようりゅうマハーマ,,메인,효과,FALSE,준범용,,3,TRUE
 15564,36539330,Jabbing Panda,재비언트 팬더,ジャブィアント・パンダ,ジャブィアント・パンダ,,메인,효과,FALSE,,,0,FALSE
 15565,72924435,"Periallis, Empress of Blossoms",영락제화－페리얼리스,瓔珞帝華－ペリアリス,ようらくていか－ペリアリス,,엑스트라,싱크로,FALSE,범용,범용,0,TRUE
 15566,9322133,Psychic Eraser Laser,사이코 이레이저,サイコ・イレイザー,サイコ・イレイザー,,메인,마법,FALSE,,,0,FALSE
@@ -11008,7 +11008,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 15952,8836329,Raging Storm Dragon - Beaufort IX,구풍룡－뷰포트 노웸,颶風龍－ビュフォート・ノウェム,ぐふうりゅう－ビュフォート・ノウェム,,메인,의식,FALSE,준범용,없음,0,TRUE
 15953,44221928,Breath of Acclamation,포예의 입김,褒誉の息吹,ほうよのいぶき,,메인,마법,FALSE,전용,없음,0,TRUE
 15954,70219023,Coordius the Triphasic Dealmon,삼상마신 코디우스,三相魔神コーディウス,さんそうまじんコーディウス,,엑스트라,융합,FALSE,준범용,범용,1,TRUE
-15955,7614732,Greater Polymerization,대융합,大融合,だいゆうごう,,메인,마법,FALSE,기타,융합,1,TRUE
+15955,7614732,Greater Polymerization,대융합,大融合,だいゆうごう,,메인,마법,FALSE,준범용,융합,1,TRUE
 15956,33008376,Materiactor Gigadra,머티리어크톨 기가드라,マテリアクトル・ギガドラ,マテリアクトル・ギガドラ,,메인,효과,FALSE,,,0,FALSE
 15957,70597485,Materiactor Gigaboros,머티리어크톨 기가보로스,マテリアクトル・ギガヴォロス,マテリアクトル・ギガヴォロス,,엑스트라,엑시즈,FALSE,전용,없음,0,TRUE
 15958,6992184,Pendulum Encore,펜듈럼 앙코르,ペンデュラム・アンコール,ペンデュラム・アンコール,,메인,함정,FALSE,,,0,FALSE
@@ -11042,7 +11042,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 15986,15792576,Sky Scourge Cidhels,천마신 시드헬즈,天魔神 シドヘルズ,てんましん　シドヘルズ,,메인,효과,FALSE,,,0,FALSE
 15987,52296675,Anchamoufrite,앤카모플라이트,アンカモフライト,アンカモフライト,,메인,효과,TRUE,전용,스몰월드,3,TRUE
 15988,88685329,Dark Eye Nightmare,다크아이 나이트메어,ダークアイ・ナイトメア,ダークアイ・ナイトメア,,메인,효과,FALSE,전용,다크,0,TRUE
-15989,15079028,World Soul - Carbon,지구 신－카르본,地久神－カルボン,ちきゅうじん－カルボン,,메인,효과,FALSE,,범용,3,TRUE
+15989,15079028,World Soul - Carbon,지구 신－카르본,地久神－カルボン,ちきゅうじん－カルボン,,메인,효과,FALSE,전용,범용,3,TRUE
 15990,51474037,Yamorimori,야모이모리,ヤモイモリ,ヤモイモリ,,메인,효과,FALSE,,,0,FALSE
 15991,87468732,Clock Arc,변도기구 클락아크,変導機咎 クロックアーク,へんどうきこう　クロックアーク,,메인,효과,TRUE,,,0,FALSE
 15992,14957440,Otoshidamashi,낙혼,落魂,オトシダマシイ,,메인,효과,FALSE,,,0,FALSE
@@ -11166,8 +11166,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 16210,58066722,Alien Stealthbuster,에일리언 버스터,エーリアン・バスター,エーリアン・バスター,,메인,효과,FALSE,전용,에일리언,0,FALSE
 16211,85055821,"Carpiponica, Mystical Beast of the Forest",숲의 성수 카르피포니카,森の聖獣 カルピポニカ,もりのせいじゅう　カルピポニカ,,메인,효과,FALSE,전용,숲의,0,TRUE
 16212,11449436,Glacier Aqua Madoor,빙하의 물의 조종자,氷河のアクア・マドール,ひょうがのアクア・マドール,,메인,효과,FALSE,,,0,FALSE
-16213,58844135,Antihuman Intelligence ME-PSY-YA,인공지능 ME－PSY－YA,人攻智能ME－PSY－YA,じんこうちのうメ－サイ－ヤ,,메인,효과,TRUE,,범용,9,TRUE
-16214,84339249,Protecting Spirit Loagaeth,수호천령 로가에스,守護天霊ロガエス,しゅごてんれいロガエス,,메인,효과,FALSE,,,1,TRUE
+16213,58844135,Antihuman Intelligence ME-PSY-YA,인공지능 ME－PSY－YA,人攻智能ME－PSY－YA,じんこうちのうメ－サイ－ヤ,,메인,효과,TRUE,준범용,범용,9,TRUE
+16214,84339249,Protecting Spirit Loagaeth,수호천령 로가에스,守護天霊ロガエス,しゅごてんれいロガエス,,메인,효과,FALSE,전용,,1,TRUE
 16215,11327848,Master's Diploman,수사호 디플로맨,修士号ディプロマン,シュウシゴウディプロマン,,메인,효과,FALSE,,,0,FALSE
 16216,57722593,Konohanasakuya,코노하나사쿠야,木花咲弥,コノハナサクヤ,,메인,효과,FALSE,,,0,TRUE
 16217,83116692,Doombearer Psychopompos,사안의 전령－프슈코폼포스,死眼の伝霊－プシュコポンポス,しがんのでんれい－プシュコポンポス,,메인,효과,FALSE,,,0,FALSE
@@ -11180,7 +11180,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 16224,18666161,Despian Proskenion,데스피아안 프로스케니온,デスピアン・プロスケニオン,デスピアン・プロスケニオン,,엑스트라,융합,FALSE,전용,데스피아,76,TRUE
 16225,45655875,Magikey Beast - Ansyalabolas,마건소수－안샤라볼라스,魔鍵召獣－アンシャラボラス,まけんしょうじゅう－アンシャラボラス,,엑스트라,융합,FALSE,전용,마건,22,TRUE
 16226,71159974,Magikey Dragon - Andrabime,마건소룡－안드라비무스,魔鍵召竜－アンドラビムス,まけんしょうりゅう－アンドラビムス,,엑스트라,융합,FALSE,전용,마건,0,TRUE
-16227,3544583,Allvain the Essence of Vanity,무의 필경 올베인,無の畢竟 オールヴェイン,むのひっきょう　オールヴェイン,,엑스트라,융합,FALSE,기타,융합,36,TRUE
+16227,3544583,Allvain the Essence of Vanity,무의 필경 올베인,無の畢竟 オールヴェイン,むのひっきょう　オールヴェイン,,엑스트라,융합,FALSE,준범용,융합,36,TRUE
 16228,40939228,Shooting Majestic Star Dragon,슈팅 세이비어 스타 드래곤,シューティング・セイヴァー・スター・ドラゴン,シューティング・セイヴァー・スター・ドラゴン,,엑스트라,싱크로,FALSE,전용,스타더스트,0,TRUE
 16229,76937326,Daigusto Laplampilica,다이가스타 라프람피리카,ダイガスタ・ラプラムピリカ,ダイガスタ・ラプラムピリカ,,엑스트라,싱크로,FALSE,전용,가스타,0,TRUE
 16230,3322931,Stellar Wind Wolfrayet,성풍랑 울프라이에,星風狼ウォルフライエ,せいふうろうウォルフライエ,,엑스트라,싱크로,FALSE,준범용,범용,2,TRUE
@@ -11283,8 +11283,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 16411,34242278,Noble Knight's Shield-Bearer,성기사의 방패지기,聖騎士の盾持ち,せいきしのたてもち,,메인,효과,FALSE,전용,성기사,2,TRUE
 16412,71736213,Horse of the Floral Knights,꽃기사단의 준마,花騎士団の駿馬,はなきしだんのしゅんめ,,메인,효과,FALSE,전용,성기사,0,FALSE
 16413,7721912,Noble Knight's Spearholder,성기사의 창지기,聖騎士の槍持ち,せいきしのやりもち,,메인,효과,FALSE,전용,성기사,0,FALSE
-16414,33129626,Centaur Mina,켄타우르미나,ケンタウルミナ,ケンタウルミナ,,엑스트라,융합,FALSE,기타,융합,1,TRUE
-16415,60514625,Ecole de Zone,에꼴 드 존,エコール・ド・ゾーン,エコール・ド・ゾーン,,메인,마법,FALSE,,범용,3,TRUE
+16414,33129626,Centaur Mina,켄타우르미나,ケンタウルミナ,ケンタウルミナ,,엑스트라,융합,FALSE,준범용,융합,1,TRUE
+16415,60514625,Ecole de Zone,에꼴 드 존,エコール・ド・ゾーン,エコール・ド・ゾーン,,메인,마법,FALSE,전용,범용,3,TRUE
 16416,6909330,Soul Binding Gate,혼박문,魂縛門,こんばくもん,,메인,마법,FALSE,,,0,FALSE
 16417,33907039,Piri Reis Map,피리 레이스의 지도,ピリ・レイスの地図,ピリ・レイスのちず,,메인,마법,FALSE,준범용,범용,9,TRUE
 16418,69492187,Ice Mirror,아이스 미러,アイス・ミラー,アイス・ミラー,,메인,마법,FALSE,,,0,FALSE
@@ -11459,14 +11459,14 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 16745,4408198,Exosister Arment,엑소시스터 아멘트,エクソシスター・アーメント,エクソシスター・アーメント,,메인,마법,FALSE,전용,엑소시스터,217,TRUE
 16746,30802207,Exosister Carpedivem,엑소시스터 카르페디벨,エクソシスター・カルペディベル,エクソシスター・カルペディベル,,메인,마법,FALSE,전용,엑소시스터,0,TRUE
 16747,77891946,Exosister Vadis,엑소시스터 바디스,エクソシスター・バディス,エクソシスター・バディス,,메인,함정,FALSE,전용,엑소시스터,301,TRUE
-16748,3285551,Rite of Aramesir,아라메시아의 의,アラメシアの儀,アラメシアのぎ,,메인,마법,FALSE,범용,용사,2047,TRUE
-16749,30680659,Water Enchantress of the Temple,성전의 수견사,聖殿の水遣い,せいでんのみずつかい,무제한,메인,효과,FALSE,범용,용사,2146,TRUE
+16748,3285551,Rite of Aramesir,아라메시아의 의,アラメシアの儀,アラメシアのぎ,,메인,마법,FALSE,준범용,용사,2047,TRUE
+16749,30680659,Water Enchantress of the Temple,성전의 수견사,聖殿の水遣い,せいでんのみずつかい,무제한,메인,효과,FALSE,준범용,용사,2146,TRUE
 16750,66078354,Magicore Warrior of the Relics,유적의 마광전사,遺跡の魔鉱戦士,いせきのまこうせんし,,메인,효과,FALSE,범용,용사,3,TRUE
-16751,2563463,Wandering Gryphon Rider,방랑의 그리폰라이더,流離のグリフォンライダー,さすらいのグリフォンライダー,금지,메인,효과,FALSE,범용,용사,915,TRUE
-16752,39568067,Fateful Adventure,운명의 여로,運命の旅路,うんめいのたびじ,,메인,마법,FALSE,범용,용사,935,TRUE
+16751,2563463,Wandering Gryphon Rider,방랑의 그리폰라이더,流離のグリフォンライダー,さすらいのグリフォンライダー,금지,메인,효과,FALSE,준범용,용사,915,TRUE
+16752,39568067,Fateful Adventure,운명의 여로,運命の旅路,うんめいのたびじ,,메인,마법,FALSE,준범용,용사,935,TRUE
 16753,65952776,"Dunnell, the Noble Arms of Light",빛의 성검 단넬,光の聖剣ダンネル,ひかりのせいけんダンネル,,메인,마법,FALSE,범용,용사,0,TRUE
 16754,92341815,Starlit Papillon,스타리트 파피용,星空蝶,スターリット・パピヨン,,메인,마법,FALSE,범용,용사,1,TRUE
-16755,38745520,"Dracoback, the Rideable Dragon",기룡 드라코백,騎竜ドラコバック,きりゅうドラコバック,,메인,마법,FALSE,범용,용사,911,TRUE
+16755,38745520,"Dracoback, the Rideable Dragon",기룡 드라코백,騎竜ドラコバック,きりゅうドラコバック,,메인,마법,FALSE,준범용,용사,911,TRUE
 16756,64230128,Zaralaam the Dark Palace,암흑신전 자라람,暗黒神殿ザララーム,あんこくしんでんザララーム,,메인,마법,FALSE,범용,용사,0,TRUE
 16757,91228233,Forest of Lost Flowers,방황의 꽃의 숲,迷い花の森,まよいばなのもり,,메인,마법,FALSE,범용,용사,0,TRUE
 16758,27623932,Thunder Discharge,썬더 디스차지,サンダー・ディスチャージ,サンダー・ディスチャージ,,메인,함정,FALSE,범용,용사,0,TRUE
@@ -11535,7 +11535,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 16865,69087397,Floowandereeze and the Advent of Adventure,후완다리즈와 여행준비,ふわんだりぃずと旅じたく,ふわんだりぃずとたびじたく,,메인,마법,FALSE,전용,후완다리즈,666,TRUE
 16866,95471006,XYZ Combine,X・Y・Z 컴바인,X・Y・Zコンバイン,エックス・ワイ・ゼットコンバイン,,메인,마법,FALSE,전용,ABCXYZ,0,FALSE
 16867,21570001,Clear New World,뉴 클리어 월드,新世壊,ニュー・クリア・ワールド,,메인,마법,FALSE,,,0,FALSE
-16868,64964750,Sales Ban,발금령,発禁令,はっきんれい,,메인,마법,FALSE,,범용,317,TRUE
+16868,64964750,Sales Ban,발금령,発禁令,はっきんれい,,메인,마법,FALSE,범용,범용,317,TRUE
 16869,90359458,Top Share,톱 셰어,トップ・シェア,トップ・シェア,,메인,마법,FALSE,범용,범용,28,TRUE
 16870,27753563,Uradora of Fate,운명의 우라도라,運命のウラドラ,うんめいのウラドラ,,메인,마법,FALSE,,,0,FALSE
 16871,53742162,Icejade Erosion,히스이침식,氷水浸蝕,ヒスイシンショク,,메인,함정,FALSE,전용,히스이,1,TRUE
@@ -11627,7 +11627,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 17123,46877100,Scareclaw Acro,스케어클로 아크로아,スケアクロー・アクロア,スケアクロー・アクロア,,메인,효과,FALSE,전용,스케어클로,37,TRUE
 17124,82361809,Scareclaw Reichheart,스케어클로 라이히하트,スケアクロー・ライヒハート,スケアクロー・ライヒハート,,메인,효과,FALSE,전용,스케어클로,53,TRUE
 17125,18760514,Mad Mauler,매드머더,マッドマーダー,マッドマーダー,,메인,효과,FALSE,,,0,FALSE
-17126,45154513,Alghoul Mazera,알구울 마제라,アルグールマゼラ,アルグールマゼラ,,메인,효과,FALSE,,범용,2,TRUE
+17126,45154513,Alghoul Mazera,알구울 마제라,アルグールマゼラ,アルグールマゼラ,,메인,효과,FALSE,전용,범용,2,TRUE
 17127,71549257,Heroic Challenger - Knuckle Sword,H·C 너클 나이프,H・C ナックル・ナイフ,ヒロイック・チャレンジャー　ナックル・ナイフ,,메인,효과,FALSE,전용,히로익,0,TRUE
 17128,18548966,Heroic Challenger - Morning Star,H·C 모닝 스타,H・C モーニング・スター,ヒロイック・チャレンジャー　モーニング・スター,,메인,효과,FALSE,전용,히로익,0,TRUE
 17129,44932065,Predaplant Byblisp,프레데터 플랜츠 비브리스프,捕食植物ビブリスプ,プレデター・プランツビブリスプ,,메인,효과,FALSE,전용,프레데터,17,TRUE
@@ -11713,7 +11713,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 17247,32828466,Wake Up Your Elemental HERO,Wake Up Your 엘리멘틀 히어로,Wake Up Your E・HERO,ウェイク　アップ　ユア　エレメンタルヒーロー,,엑스트라,융합,FALSE,전용,히어로,27,TRUE
 17248,78217065,Evolution End Burst,에볼루션 리절트 버스트,エヴォリューション・レザルト・バースト,エヴォリューション・レザルト・バースト,,메인,마법,FALSE,전용,사이버 드래곤,0,FALSE
 17249,5611760,Rainbow Bridge of Salvation,구원의 가교,救いの架け橋,すくいのかけはし,,메인,함정,FALSE,전용,보옥수,34,TRUE
-17250,31006879,"On Your Mark, Get Set, DUEL!",라이딩 듀얼! 액셀러레이션!,ライディング・デュエル！アクセラレーション！,ライディング・デュエル！アクセラレーション！,,메인,마법,FALSE,,범용,3,TRUE
+17250,31006879,"On Your Mark, Get Set, DUEL!",라이딩 듀얼! 액셀러레이션!,ライディング・デュエル！アクセラレーション！,ライディング・デュエル！アクセラレーション！,,메인,마법,FALSE,전용,범용,3,TRUE
 17251,68490573,Time to Stand Up,위대한 혼,大いなる魂,おおいなるたましい,,메인,함정,FALSE,,,0,FALSE
 17252,4599182,This Creepy Little Punk,되돌아온 사신,舞い戻った死神,まいもどったしにがみ,,메인,마법,FALSE,전용,인페르니티,0,TRUE
 17253,30983281,Accel Synchro Stardust Dragon,액셀싱크로 스타더스트 드래곤,アクセルシンクロ・スターダスト・ドラゴン,アクセルシンクロ・スターダスト・ドラゴン,,엑스트라,싱크로,FALSE,범용,스타더스트,84,TRUE
@@ -11729,7 +11729,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 17263,64211118,Firewall Dragon Darkfluid - Neo Tempest Terahertz,파이어월 드래곤 다크플루이드－네오템피스트,ファイアウォール・ドラゴン・ダークフルード－ネオテンペスト,ファイアウォール・ドラゴン・ダークフルード－ネオテンペスト,,엑스트라,링크,FALSE,준범용,코드 토커,3,TRUE
 17264,91706817,Angel of Blue Tears,파란눈물의 천사,青い涙の天使,あおいなみだのてんし,,메인,마법,FALSE,전용,트릭스터,0,FALSE
 17265,27104921,Forge a New Future,운명의 수인,運命の囚人,うんめいのしゅうじん,,메인,함정,FALSE,,,0,FALSE
-17267,90583279,"Yakusa, Lord of the Eight Thunders",야쿠사이카즈치노카미,八雷天神,ヤクサイカヅチノカミ,,메인,효과,FALSE,,범용,2,TRUE
+17267,90583279,"Yakusa, Lord of the Eight Thunders",야쿠사이카즈치노카미,八雷天神,ヤクサイカヅチノカミ,,메인,효과,FALSE,준범용,범용,2,TRUE
 17268,26988374,Magikey Avatar - Astartu,마건빙신－아슈타르투,魔鍵憑神－アシュタルトゥ,まけんひょうじん－アシュタルトゥ,,엑스트라,엑시즈,FALSE,전용,마건,0,TRUE
 17344,49858495,Power Pro Lady Sisters,파워 프로 레이디 시스터즈,パワプロ・レディ三姉妹,パワプロ・レディさんしまい,,메인,일반,FALSE,,,0,FALSE
 17345,76352503,Changshi the Spiridao,영도사 창시,霊道士チャンシー,れいどうしチャンシー,,메인,효과,FALSE,,,0,TRUE
@@ -11820,7 +11820,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 17433,35405755,Kurikara Divincarnate,쿠리카라천동,俱利伽羅天童,くりからてんどう,,메인,효과,FALSE,준범용,범용,73,TRUE
 17434,62803464,Aussa the Earth Channeler,지령매사 아우스,地霊媒師アウス,ちれいばいしアウス,,메인,효과,FALSE,전용,령사,0,TRUE
 17435,98898163,Grandtusk Dragon,그랜드터스크 드래곤,グランドタスク・ドラゴン,グランドタスク・ドラゴン,,메인,효과,FALSE,,,0,FALSE
-17436,35283277,Eka the Flame Buddy,프레임 버디 에카,炎獣使いエーカ,フレイム・バディエーカ,,메인,효과,FALSE,,,1,TRUE
+17436,35283277,Eka the Flame Buddy,프레임 버디 에카,炎獣使いエーカ,フレイム・バディエーカ,,메인,효과,FALSE,전용,,1,TRUE
 17437,61681816,Propa Gandake,프로파 간다케,プロパ・ガンダケ,プロパ・ガンダケ,,메인,효과,FALSE,,,0,FALSE
 17438,94076521,Cartorhyn the Hidden Gem of the Seafront,수계의 비석－카토린,水界の秘石－カトリン,すいかいのひせき－カトリン,,메인,효과,FALSE,전용,암석계,61,TRUE
 17439,20560620,Emperor Tanuki's Critter Count,너구러운 너구리부부,お代狸様の代算様,おだいりさまのかわざんよう,,메인,효과,FALSE,,,0,FALSE
@@ -11865,7 +11865,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 17478,197042,Exosister Returnia,엑소시스터 리타니아,エクソシスター・リタニア,エクソシスター・リタニア,,메인,함정,FALSE,전용,엑소시스터,291,TRUE
 17479,36591747,Amaze Attraction Thrill Train,A・∀・TT,A・∀・TT,アメイズ・アトラクション・スリルトレイン,,메인,함정,FALSE,전용,어메이즈먼트,0,TRUE
 17480,63086455,Terrors of the Overroot,이세상 너머,現世離レ,ウツシヨバナレ,,메인,함정,FALSE,전용,범용,26,TRUE
-17481,9070454,Draco-Utopian Aura,용황의 파동,龍皇の波動,りゅうおうのはどう,,메인,함정,FALSE,,범용,21,TRUE
+17481,9070454,Draco-Utopian Aura,용황의 파동,龍皇の波動,りゅうおうのはどう,,메인,함정,FALSE,범용,범용,21,TRUE
 17482,35479109,Double Dust Tornado Twins,모래 먼지의 빅 허리케인,砂塵の大ハリケーン,さじんのだいハリケーン,,메인,함정,FALSE,,,0,FALSE
 17552,50699850,"Loris, Lady of Lament",악마양 로리스,悪魔嬢ロリス,あくまじょうロリス,,메인,효과,FALSE,준범용,악마양,0,TRUE
 17553,96084564,Aileron,엘론,エルロン,エルロン,,메인,효과,FALSE,전용,섬도,0,FALSE
@@ -11964,13 +11964,13 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 17759,34976176,Blackwing - Chinook the Snow Blast,BF－설격의 치누크,BF－雪撃のチヌーク,ブラックフェザー－せつげきのチヌーク,,메인,효과,FALSE,전용,블랙페더,15,TRUE
 17760,70465810,Blackwing - Sudri the Phantom Glimmer,BF－환상요의 스즈리,BF－幻耀のスズリ,ブラックフェザー－げんようのスズリ,,메인,효과,FALSE,전용,블랙페더,18,TRUE
 17761,7459919,Blackwing - Zonda the Dusk,BF－각야의 존다,BF－刻夜のゾンダ,ブラックフェザー－こくやのゾンダ,,메인,효과,FALSE,전용,블랙페더,1,TRUE
-17762,33854624,Bystial Magnamhut,비스테드 마그나무트,深淵の獣マグナムート,ビーステッドマグナムート,제한,메인,효과,FALSE,범용,비스테드,2456,TRUE
+17762,33854624,Bystial Magnamhut,비스테드 마그나무트,深淵の獣マグナムート,ビーステッドマグナムート,제한,메인,효과,FALSE,준범용,비스테드,2456,TRUE
 17763,60242223,Bystial Saronir,비스테드 살로니르,深淵の獣サロニール,ビーステッドサロニール,,메인,효과,FALSE,전용,비스테드,655,TRUE
 17764,6637331,Bystial Druiswurm,비스테드 드루이드브룸,深淵の獣ドルイドヴルム,ビーステッドドルイドヴルム,,메인,효과,FALSE,준범용,비스테드,1852,TRUE
 17765,32731036,The Bystial Lubellion,더 비스테드 루벨리온,深淵の獣ルベリオン,ザ・ビーステッドルベリオン,,메인,효과,FALSE,전용,비스테드,715,TRUE
 17766,69120785,The Bystial Alba Los,더 비스테드 알버 로스,深淵の獣アルバ・ロス,ザ・ビーステッドアルバ・ロス,,메인,효과,FALSE,전용,비스테드,2,TRUE
 17767,95515789,"Blazing Cartesia, the Virtuous",혁의 성녀 카르테시아,赫の聖女カルテシア,あかのせいじょカルテシア,,메인,효과,FALSE,전용,비스테드,110,TRUE
-17768,32909498,Kashtira Fenrir,크샤트리라 펜리르,クシャトリラ・フェンリル,クシャトリラ・フェンリル,제한,메인,효과,FALSE,범용,크샤트리라,3093,TRUE
+17768,32909498,Kashtira Fenrir,크샤트리라 펜리르,クシャトリラ・フェンリル,クシャトリラ・フェンリル,제한,메인,효과,FALSE,준범용,크샤트리라,3093,TRUE
 17769,68304193,Kashtira Unicorn,크샤트리라 유니콘,クシャトリラ・ユニコーン,クシャトリラ・ユニコーン,제한,메인,효과,FALSE,준범용,크샤트리라,521,TRUE
 17770,94392192,Kashtira Ogre,크샤트리라 오우거,クシャトリラ・オーガ,クシャトリラ・オーガ,,메인,효과,FALSE,전용,크샤트리라,94,TRUE
 17771,31887806,Tobari the Sky Ninja,하늘의 첩자－토바리,宙の忍者－鳥帷,そらのにんじゃ－トバリ,,메인,효과,FALSE,전용,첩자,6,TRUE
@@ -11989,8 +11989,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 17784,54092240,Celestial Apparatus Tesea,테세아 성령기,テセア聖霊器,テセアせいれいき,,메인,효과,FALSE,범용,용사,2,TRUE
 17785,81497285,Lady Labrynth of the Silver Castle,레이디 오브 더 라뷰린스,迷宮城の白銀姫,レディ・オブ・ザ・ラビュリンス,,메인,효과,FALSE,전용,라뷰린스,208,TRUE
 17786,27882993,Infernalqueen Salmon,인페르노퀸 새먼,インフェルノクインサーモン,インフェルノクインサーモン,,메인,효과,FALSE,,,0,FALSE
-17787,53270092,Han-Shi Kyudo Spirit,큐도 스피릿 HAN－SHI,キュウドウ魂 HAN－SHI,キュウドウスピリット　ハンシ,,메인,효과,TRUE,,범용,1,TRUE
-17788,80275707,Laughing Puffin,도화조 래핑퍼핀,道化鳥ラフィンパフィン,どうけちょうラフィンパフィン,,메인,효과,FALSE,,범용,8,TRUE
+17787,53270092,Han-Shi Kyudo Spirit,큐도 스피릿 HAN－SHI,キュウドウ魂 HAN－SHI,キュウドウスピリット　ハンシ,,메인,효과,TRUE,준범용,범용,1,TRUE
+17788,80275707,Laughing Puffin,도화조 래핑퍼핀,道化鳥ラフィンパフィン,どうけちょうラフィンパフィン,,메인,효과,FALSE,범용,범용,8,TRUE
 17789,16769305,Turbo-Tainted Hot Rod GT19,데스튠－GT19,魔界造車－GT１９,デスチューン－ジーティイチキュー,,메인,효과,FALSE,,F.A.,0,FALSE
 17790,53154400,Psychic Rover,사이코 로버,サイコ・ローヴァー,サイコ・ローヴァー,,메인,효과,FALSE,,,0,FALSE
 17791,89552119,Cucumber Horse,정령명기－큐캄바,精霊冥騎－急還馬,しょうりょうめいき－きゅうかんば,,메인,효과,FALSE,,,0,FALSE
@@ -12101,7 +12101,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 18146,73478096,Photon Emperor,포톤 엠페러,フォトン・エンペラー,フォトン・エンペラー,,메인,효과,FALSE,전용,포톤,0,TRUE
 18147,863795,Galaxy Summoner,갤럭시 서머너,銀河の召喚師,ギャラクシー・サモナー,,메인,효과,FALSE,전용,갤럭시,0,TRUE
 18148,46261704,Galakuriboh,갤럭크리보,ギャラクリボー,ギャラクリボー,,메인,효과,FALSE,전용,갤럭시,0,TRUE
-18149,72656408,Bystial Baldrake,비스테드 발드레이크,深淵の獣バルドレイク,ビーステッドバルドレイク,,메인,효과,FALSE,,비스테드,470,TRUE
+18149,72656408,Bystial Baldrake,비스테드 발드레이크,深淵の獣バルドレイク,ビーステッドバルドレイク,,메인,효과,FALSE,준범용,비스테드,470,TRUE
 18150,5141117,Swordsoul Dragon of the Abyss,심연의 상검룡,深淵の相剣龍,しんえんのそうけんりゅう,,메인,효과,FALSE,전용,상검,6,TRUE
 18151,31149212,Kashtira Riseheart,크샤트리라 라이즈하트,クシャトリラ・ライズハート,クシャトリラ・ライズハート,,메인,효과,FALSE,전용,크샤트리라,356,TRUE
 18152,78534861,Scareclaw Kashtira,스케어클로 크샤트리라,スケアクロー・クシャトリラ,スケアクロー・クシャトリラ,,메인,효과,FALSE,전용,스케어클로,194,TRUE
@@ -12120,7 +12120,7 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 18165,91749600,"Vala, Seidhr of the Generaider Bosses",제너레이드 세이즈 발라,王の呪 ヴァラ,ジェネレイド・セイズ　ヴァラ,,메인,효과,FALSE,전용,제너레이드,9,TRUE
 18166,27134209,"Beargram, Shelled Emperor of the Forest Crown",수관의 갑제 베어그램,樹冠の甲帝ベアグラム,じゅかんのこうていベアグラム,,메인,효과,FALSE,,,0,TRUE
 18167,64538914,Manticore of Smashing,진천의 만티코어,震天のマンティコア,しんてんのマンティコア,,메인,효과,FALSE,,,0,FALSE
-18168,90027012,Choju of the Trillion Hands,조수의 신,チョウジュ・ゴッド,チョウジュ・ゴッド,,메인,효과,FALSE,,범용,2,TRUE
+18168,90027012,Choju of the Trillion Hands,조수의 신,チョウジュ・ゴッド,チョウジュ・ゴッド,,메인,효과,FALSE,범용,범용,2,TRUE
 18169,27012717,Fierce Tiger Monghu,맹호 몽후,猛虎モンフー,もうこモンフー,,메인,효과,FALSE,,,0,FALSE
 18170,53416326,Fairyant the Circular Sorcerer,원환사 페아리,円喚師フェアリ,えんかんしフェアリ,,메인,효과,FALSE,,,0,FALSE
 18171,99801464,Sari of the Silverwing Axe,은익의 AXE－서리,銀翼のAXE－サリー,ぎんよくのアクス－サリー,,메인,효과,FALSE,,,0,FALSE
@@ -12171,11 +12171,11 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 18216,8653757,Photon Timestop,포톤 리타데이션,フォトン・リタデイション,フォトン・リタデイション,,메인,함정,FALSE,전용,포톤,0,TRUE
 18217,34047456,Gigantic Thundercross,기간틱 썬더크로스,ギガンティック・サンダークロス,ギガンティック・サンダークロス,,메인,함정,FALSE,전용,낙인,0,TRUE
 18218,60442460,Branded Befallen,이끌린 낙인,導かれし烙印,みちびかれしらくいん,,메인,함정,FALSE,전용,낙인,0,TRUE
-18219,7436169,Trivikarma,트리비카르마,トリヴィカルマ,トリヴィカルマ,,메인,함정,FALSE,,범용,32,TRUE
+18219,7436169,Trivikarma,트리비카르마,トリヴィカルマ,トリヴィカルマ,,메인,함정,FALSE,준범용,범용,32,TRUE
 18220,33925864,Kashtira Big Bang,크샤트리라 빅뱅,六世壊根清浄,クシャトリラ・ビッグバン,,메인,함정,FALSE,전용,크샤트리라,137,TRUE
 18221,60329973,Chaos Phantasm,카오스 판타즘,混沌変幻,カオス・ファンタズム,,메인,함정,FALSE,전용,카오스,0,TRUE
 18222,92714517,Big Welcome Labrynth,빅웰컴 라뷰린스,ビッグウェルカム・ラビュリンス,ビッグウェルカム・ラビュリンス,,메인,함정,FALSE,전용,라뷰린스,178,TRUE
-18223,39103226,Weighbridge,대관계량,台貫計量,だいかんけいりょう,,메인,함정,FALSE,,범용,44,TRUE
+18223,39103226,Weighbridge,대관계량,台貫計量,だいかんけいりょう,,메인,함정,FALSE,범용,범용,44,TRUE
 18224,65107325,Sour Scheduling - Red Vinegar Vamoose,적식초 건널목,赤酢の踏切,あかずのふみきり,,메인,함정,FALSE,,,0,FALSE
 18225,91592030,Intimidating Ore - Summonite,위박광석－서머나이트,威迫鉱石－サモナイト,いはくこうせき－サモナイト,,메인,함정,FALSE,,,0,TRUE
 18227,64475743,"Kittytail, Mystical Beast of the Forest",숲의 성수 키티텔,森の聖獣 キティテール,もりのせいじゅう　キティテール,,메인,효과,FALSE,전용,성수,0,TRUE
@@ -12206,13 +12206,13 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 18433,66367984,Protection of the Elements,엘리멘트의 가호,エレメントの加護,エレメントのかご,,메인,함정,FALSE,전용,히어로,1,TRUE
 18434,2752099,Rose Shaman,로즈 샤먼,薔薇占術師,ローズ・シャーマン,,메인,효과,FALSE,,,0,TRUE
 18435,35756798,Final Cross,파이널 크로스,ファイナル・クロス,ファイナル・クロス,,메인,마법,FALSE,전용,없음,0,TRUE
-18436,61245403,Cattycorn,네콘,ネコーン,ネコーン,,메인,효과,FALSE,,식물,2,TRUE
+18436,61245403,Cattycorn,네콘,ネコーン,ネコーン,,메인,효과,FALSE,전용,식물,2,TRUE
 18437,97639441,Photon Jumper,포톤 점퍼,フォトン・ジャンパー,フォトン・ジャンパー,,메인,효과,FALSE,전용,포톤,0,TRUE
 18438,34034150,Fissioning Mother Spider,분열하는 마더 스파이더,分裂するマザー・スパイダー,ぶんれつするマザー・スパイダー,,메인,효과,FALSE,,,0,FALSE
 18439,60023855,Baby Spider,베이비 스파이더,ベビー・スパイダー,ベビー・スパイダー,,메인,효과,FALSE,,,0,FALSE
 18440,97417863,D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox,DDDD 초차원통황 제로 패러독스,DDDD超次元統皇ゼロ・パラドックス,ディーディーディーディーちょうじげんとうおうゼロ・パラドックス,,메인,효과,TRUE,전용,DD,0,TRUE
 18441,23812568,Additional Mirror Level 7,애디셔널 미러 레벨 7,アディショナル・ミラー・レベル７,アディショナル・ミラー・レベルセブン,,메인,마법,FALSE,전용,없음,0,FALSE
-18442,60306277,Synchro Zone,싱크로 존,シンクロ・ゾーン,シンクロ・ゾーン,,메인,함정,FALSE,,범용,2,TRUE
+18442,60306277,Synchro Zone,싱크로 존,シンクロ・ゾーン,シンクロ・ゾーン,,메인,함정,FALSE,전용,범용,2,TRUE
 18443,96795312,War Magus - Aakas,무의 현자－아카스,武の賢者－アーカス,ぶのけんじゃ－アーカス,,메인,효과,FALSE,전용,섬도,0,FALSE
 18444,22790910,Wisdom Magus - Himmel,지의 현자－힘멜,智の賢者－ヒンメル,ちのけんじゃ－ヒンメル,,메인,효과,FALSE,전용,섬도,0,FALSE
 18447,62967433,"Sacred Sheep Tree, Baromet",신양수 바로메트,神羊樹バロメット,しんようじゅバロメット,,엑스트라,엑시즈,FALSE,전용,없음,0,TRUE
@@ -12244,11 +12244,11 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 18487,78098950,Sword Emperor - Tsumuhakutsunagi,도황－츠무하쿠츠나기,刀皇－都牟羽沓薙,トウオウ－ツムハクツナギ,,메인,효과,FALSE,,,0,TRUE
 18488,4483598,Full-Active Duprex,풀액티브 듀플렉스,フルアクティブ・デュプレックス,フルアクティブ・デュプレックス,,메인,효과,FALSE,,,0,TRUE
 18489,31987203,Harvest Angel of Doom,사천사 하비스트,死天使ハーヴェスト,してんしハーヴェスト,,메인,효과,TRUE,,,0,TRUE
-18490,67972302,Sakitama,사키타마,幸魂,サキタマ,,메인,효과,FALSE,,범용,76,TRUE
+18490,67972302,Sakitama,사키타마,幸魂,サキタマ,,메인,효과,FALSE,범용,범용,76,TRUE
 18491,3361010,Yukai na Rin no Kitsunebi Yurara,유쾌한 린의 여우불 유라라,愉怪な燐のきつねびゆらら,ゆかいなりんのきつねびゆらら,,메인,효과,FALSE,,,0,TRUE
-18492,30765615,Ringowurm the Hundred Apple Dragon,백금룡－린고블룸,百檎龍－リンゴブルム,ひゃっきんりゅう－リンゴブルム,,메인,효과,FALSE,,범용,96,TRUE
+18492,30765615,Ringowurm the Hundred Apple Dragon,백금룡－린고블룸,百檎龍－リンゴブルム,ひゃっきんりゅう－リンゴブルム,,메인,효과,FALSE,전용,범용,96,TRUE
 18493,66150724,Pendulumoon,펜듈럼라문,ペンデュラムーン,ペンデュラムーン,,메인,효과,TRUE,전용,펜듈럼,0,TRUE
-18494,3248469,Wannabee!,와나비!,ワナビー！,ワナビー！,,메인,효과,FALSE,,범용,1,TRUE
+18494,3248469,Wannabee!,와나비!,ワナビー！,ワナビー！,,메인,효과,FALSE,전용,범용,1,TRUE
 18495,39643167,Bunny Instruct-ear,토끼귀 도사,ウサミミ導師,ウサミミどうし,,메인,효과,FALSE,,,0,FALSE
 18496,65037172,Cyberse Sage,사이버스 세이지,サイバース・セイジ,サイバース・セイジ,,메인,의식,FALSE,전용,사이버,0,TRUE
 18497,92422871,Cyberse Disabwurm,사이버스 디세브룸,サイバース・ディセーブルム,サイバース・ディセーブルム,,엑스트라,융합,FALSE,전용,사이버,1,TRUE
@@ -12294,8 +12294,8 @@ Code,Digit,Name_EN,Name_KO,Name_JA,Name_JA_Ruby,Reg,Type,Typo,Pendulum,Staple,Ar
 18537,44553392,World of Boundless Consciousness,식무변세괴,識無辺世壊,しきむへんせかい,,메인,함정,FALSE,전용,비서스,0,TRUE
 18538,71948047,REINFORCE!,REINFORCE!,REINFORCE！,リインフォース！,,메인,함정,FALSE,전용,RACE,0,TRUE
 18539,7336745,Dinomorphia Intact,다이놀피어 인택트,ダイノルフィア・インタクト,ダイノルフィア・インタクト,,메인,함정,FALSE,전용,다이놀피어,6,TRUE
-18540,43331750,Fusion Reproduction,퓨전 듀플리케이션,融合複製,フュージョン・デュプリケーション,,메인,함정,FALSE,,범용,3,TRUE
-18541,70825459,Trap Track,트랩트랙,トラップトラック,トラップトラック,,메인,함정,FALSE,,범용,10,TRUE
+18540,43331750,Fusion Reproduction,퓨전 듀플리케이션,融合複製,フュージョン・デュプリケーション,,메인,함정,FALSE,준범용,범용,3,TRUE
+18541,70825459,Trap Track,트랩트랙,トラップトラック,トラップトラック,,메인,함정,FALSE,범용,범용,10,TRUE
 18542,6214163,Double Hooking,더블 후킹,ダブル・フッキング,ダブル・フッキング,,메인,함정,FALSE,,,0,FALSE
 18543,43618262,First Purchase of the Year,첫구매,初買い,はつがい,,메인,함정,FALSE,,,0,FALSE
 18648,1259814,Rainbowlution Lab,레인볼루션 라보,千六百七十七万工房,レインボリューション・ラボ,,메인,함정,FALSE,,,0,TRUE

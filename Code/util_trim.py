@@ -46,6 +46,8 @@ def fill_na_with_code(df):
 fill_na_with_code(df)
 db_digit = np.asarray(df["Digit"])
 db_name_ko = np.asarray(df["Name_KO"])
+db_name_en = np.asarray(df["Name_EN"])
+db_name_ja = np.asarray(df["Name_JA"])
 db_type = np.asarray(df["Type"])
 
 #######################################################
@@ -116,11 +118,11 @@ def trans_sort (group_pos, group_digit, group_pt, sort_round):
     sort_digit = [pos_digit[i] for i in sort_mask]
     return sort_digit
 
-def trans_name(sort_digit):
+def trans_name(sort_digit, local):
     sort_name = []
     for digit in sort_digit:
         ind = np.where(db_digit == int(digit))[0][0]
-        name = db_name_ko[ind]
+        name = np.asarray(df[f"Name_{local.upper()}"])[ind]
         sort_name.append(name)
     return sort_name
 
