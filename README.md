@@ -1,4 +1,4 @@
-# Yugioh_Card_Recognition
+# Yugioh Card Recognition
 
 Using CV2 template matching to identify Yugioh card images into card names
 
