@@ -10,16 +10,14 @@ dir_main = Path.cwd().parent
 
 #######################################################
 
-def dist(p1,p2):
-    p1X = p1[0]
-    p1Y = p1[1]
-    p2X = p2[0]
-    p2Y = p2[1]
+def dist(p1, p2):
+    p1X, p1Y = p1
+    p2X, p2Y = p2
 
-    dX = (p2X - p1X) **2
-    dY = (p2Y - p1Y) **2
+    dX = (p2X - p1X) ** 2
+    dY = (p2Y - p1Y) ** 2
     
-    return dX+dY
+    return dX + dY
 
 # creates sorting mask funciton to sort points
 def sort_pt(pts, sort_round):
@@ -34,8 +32,6 @@ def sort_pt(pts, sort_round):
         new_pt.append(new)
     return [x for _, x in sorted(zip(new_pt, ind_pt))]
 
-#######################################################
-
 dir_full_db = f'{dir_main}/Data/YGO DB - export_full_db.csv'
 df = pd.read_csv(dir_full_db)
 def fill_na_with_code(df):
@@ -45,9 +41,6 @@ def fill_na_with_code(df):
     return df
 fill_na_with_code(df)
 db_digit = np.asarray(df["Digit"])
-db_name_ko = np.asarray(df["Name_KO"])
-db_name_en = np.asarray(df["Name_EN"])
-db_name_ja = np.asarray(df["Name_JA"])
 db_type = np.asarray(df["Type"])
 
 #######################################################
@@ -85,6 +78,21 @@ def trans_dup (zip_pt, dup_tol) :
             j = j- 1
         i += 1
     return dup_pt
+
+# def trans_dup(zip_pt, dup_tol):
+#     dup_pt = deepcopy(zip_pt)
+#     dup_pt = [pt for i, pt in enumerate(dup_pt) if all(dist(pt, dup_pt[j]) >= dup_tol ** 2 or j >= i for j in range(len(dup_pt)))]
+#     return dup_pt
+
+# def trams_dup(zip_pt, dup_tol):
+#     # Convert list of points to numpy array
+#     points = np.array(zip_pt)
+#     # Calculate pairwise distances
+#     dists = np.sqrt(np.sum((points[:, np.newaxis] - points) ** 2, axis=-1))
+#     # Create mask for points within tolerance
+#     mask = np.tril(dists <= dup_tol, k=-1).any(axis=1)
+#     # Return unique points
+#     return points[mask].tolist()
 
 def trans_group (dup_pt, zip_pt, zip_pos, zip_digit, dup_tol) :
     group_pt = []
@@ -154,7 +162,7 @@ def trans_paste(sort_name,sort_type,deck_code):
     token_ext = '엑스트라'
     if token_ext in sort_type:
     #######################################################
-        # cons_pat = find_consecutive_bounds(sort_name, token_ext) #check for chuncks
+        # cons_pat = find_consecutive_bounds(sort_name, token_ext) #check for chunks
         # if len(cons_pat) > 1:
         #     print('side_extra')
         # else :
