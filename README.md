@@ -24,7 +24,7 @@ Therefore, you have to download the images by yourself using the crawling script
 
 ![alt text](https://github.com/vestavesto/Yugioh_Card_Recognition/blob/main/schem_02.jpg)
 
-- There is three key data to collect comprehensive Yugioh Card DB including all JA,EN,KO version
+There is three key data to collect comprehensive Yugioh Card DB including all JA,EN,KO version
 * Card Code  | Number used on Konami Official Yugioh Card DB -> Get it from YGOrganization API
 * Card Digit | Number used on -> Get it from YGO Prodeck DB API. Includes alternative illustration
 * Card Name  | Obviously... Card Names
