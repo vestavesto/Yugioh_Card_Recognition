@@ -24,11 +24,18 @@ Therefore, you have to download the images by yourself using the crawling script
 
 ![alt text](https://github.com/vestavesto/Yugioh_Card_Recognition/blob/main/schem_02.jpg)
 
-1. There is three key data to collect comprehensive Yugioh Card DB including all JA,EN,KO version
-- Card Code  | Number used on Konami Official Yugioh Card DB -> Get it from YGOrganization API
-- Card Digit | Number used on -> Get it from YGO Prodeck DB API. Includes alternative illustration
-- Card Name  | Obviously... Card Names
+- There is three key data to collect comprehensive Yugioh Card DB including all JA,EN,KO version
+* Card Code  | Number used on Konami Official Yugioh Card DB -> Get it from YGOrganization API
+* Card Digit | Number used on -> Get it from YGO Prodeck DB API. Includes alternative illustration
+* Card Name  | Obviously... Card Names
 There are several cards on YGO Prodeck that doesn't match with Official translation so bear in mind.
+Also, some of the translation in non-official source contains user translations and even the card digits might not match.
+
+1. Collect Card Code using YGOrganization API
+2. Crawl data from Konami DB using Card Codes for more precise results
+3. Collect Card Digit using YGO Prodeck API
+4. Match the Card Codes to Card Digit coresponding to English localization Card Names
+5. We have comprehensive YGO Card DB with Card Digit, Code, Name
 
 ## OCG Game Records from Japan
 * https://docs.google.com/spreadsheets/d/1UX-9WvS7ckDIA8wf-rmRasWmoMHBtbX8c2pz2u-g6zs/edit?usp=sharing
