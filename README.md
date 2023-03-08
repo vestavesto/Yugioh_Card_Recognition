@@ -31,7 +31,7 @@ There is three key data to collect comprehensive Yugioh Card DB including all JA
 
 There are several cards on YGO Prodeck that doesn't match with Official translation so bear in mind.
 
-Also, some of the translation in non-official source contains user translations and even the card digits might not match.
+Also, data from non-official resource might contain user translation or temporary digits.
 
 Here's the step-by-step gudie to buid one
 1. Collect Card Code using YGOrganization API
