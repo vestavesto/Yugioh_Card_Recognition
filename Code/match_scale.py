@@ -32,7 +32,7 @@ def match_scale(dir_card, dir_deck, deck_width):
     return int(ideal_scale)
 
 
-def match_scale_mp(dir_card, dir_deck, deck_width, threshold):
+def match_scale_mp_v(dir_card, dir_deck, deck_width, threshold):
     img_deck = cv2.imread(dir_deck)
     img_deck = imutils.resize(img_deck, width = deck_width)
     img_gray = cv2.cvtColor(img_deck, cv2.COLOR_BGR2GRAY)
@@ -72,7 +72,7 @@ def match_scale_mp(dir_card, dir_deck, deck_width, threshold):
     return real_width
 
 
-def match_scale_mp_v(img_card, img_deck, card_min, card_max, step, threshold):
+def match_scale_mp(img_card, img_deck, card_min, card_max, step, threshold):
 
     best_match = None
     for scale in np.linspace(card_min, card_max, step):
@@ -85,7 +85,6 @@ def match_scale_mp_v(img_card, img_deck, card_min, card_max, step, threshold):
 
     card_width = int(ideal_scale)
 
-    # img_card = cv2.imread(dir_card, 0)
     img_card = imutils.resize(img_card, width = card_width)
     res = cv2.matchTemplate(img_deck, img_card, cv2.TM_CCOEFF_NORMED)
     loc=np.where(res >= threshold)
