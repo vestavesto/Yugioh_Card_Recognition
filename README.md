@@ -33,6 +33,7 @@ There are several cards on YGO Prodeck that doesn't match with Official translat
 
 Also, some of the translation in non-official source contains user translations and even the card digits might not match.
 
+Here's the step-by-step gudie to buid one
 1. Collect Card Code using YGOrganization API
 2. Crawl data from Konami DB using Card Codes for more precise results
 3. Collect Card Digit using YGO Prodeck API
