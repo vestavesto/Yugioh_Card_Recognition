@@ -36,7 +36,7 @@ Here's the step-by-step gudie to buid one
 1. Collect Card Code using YGOrganization API
 2. Crawl data from Konami DB using Card Codes for more precise results
 3. Collect Card Digit using YGO Prodeck API
-4. Match the Card Codes to Card Digit coresponding to English localization Card Names
+4. Match the Card Codes to Card Digit with sharing coresponding English localization Card Names
 5. We have comprehensive YGO Card DB with Card Digit, Code, Name
 
 ## OCG Game Records from Japan
