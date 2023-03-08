@@ -39,6 +39,11 @@ Here's the step-by-step gudie to buid one
 4. Match the Card Codes to Card Digit with sharing coresponding English localization Card Names
 5. We have comprehensive YGO Card DB with Card Digit, Code, Name
 
+![alt text](https://github.com/vestavesto/Yugioh_Card_Recognition/blob/main/Output/std_crop_rec.jpg)
+![alt text](https://github.com/vestavesto/Yugioh_Card_Recognition/blob/main/Output/pen_crop_rec.jpg)
+
+You may use the crop script to cut out parts for additional projects
+
 ## OCG Game Records from Japan
 * https://docs.google.com/spreadsheets/d/1UX-9WvS7ckDIA8wf-rmRasWmoMHBtbX8c2pz2u-g6zs/edit?usp=sharing
 
