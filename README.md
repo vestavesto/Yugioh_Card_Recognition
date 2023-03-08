@@ -41,6 +41,7 @@ Here's the step-by-step gudie to buid one
 
 ## OCG Game Records from Japan
 * https://docs.google.com/spreadsheets/d/1UX-9WvS7ckDIA8wf-rmRasWmoMHBtbX8c2pz2u-g6zs/edit?usp=sharing
+
 * https://decklist.tistory.com/
 
 ## Resource
