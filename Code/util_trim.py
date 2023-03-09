@@ -54,13 +54,13 @@ def trans_raw ( card_loc, card_pos , digit_list):
         digit = digit_list[i]
         for j in range(len(card_loc[i])):
             coord = card_loc[i][j]
-            coX = coord[0]
-            coY = coord[1]
+            # coX = coord[0]
+            # coY = coord[1]
             pos = card_pos[i][j]
-            # 01 Point
-            zip_pt.append([coX, coY])
-            # 02 Digit
+            # 01 Digit
             zip_digit.append(digit)
+            # 01 Point
+            zip_pt.append(coord)
             # 03 Pos
             zip_pos.append(pos)
 
