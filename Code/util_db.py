@@ -1,4 +1,4 @@
-import os 
+# import os 
 import numpy as np
 import pandas as pd
 from pathlib import Path
@@ -18,13 +18,40 @@ db_digit = np.asarray(df["Digit"])
 db_name_ko = np.asarray(df["Name_KO"])
 db_type = np.asarray(df["Type"])
 
+# def search_deck(deck_code):
+#     dir_deck_img = f'{dir_main}/deck'
+#     deck_img_list = os.listdir(dir_deck_img)
+#     deck_code_list = [os.path.splitext(filename)[0] for filename in deck_img_list]
+#     deck_code_ind = deck_code_list.index(deck_code)
+#     deck_path = deck_img_list[deck_code_ind]
+#     return f'{dir_main}/deck/{deck_path}'
+
+# def search_deck(deck_code):
+#     dir_deck_img = f'{dir_main}/deck'
+#     dir_path = Path(dir_deck_img)
+
+#     files_list = list(dir_path.glob('*'))
+#     filenames_list = [str(file) for file in files_list]
+
+#     deck_code_list = [file.stem for file in dir_path.glob('*')]
+#     deck_code_ind = deck_code_list.index(deck_code)
+#     deck_path = filenames_list[deck_code_ind]
+
+#     return deck_path
+
+
 def search_deck(deck_code):
-    dir_deck_img = f'{dir_main}/deck'
-    deck_img_list = os.listdir(dir_deck_img)
-    deck_code_list = [os.path.splitext(filename)[0] for filename in deck_img_list]
-    deck_code_ind = deck_code_list.index(deck_code)
-    deck_path = deck_img_list[deck_code_ind]
-    return f'{dir_main}/deck/{deck_path}'
+    dir_deck_img = Path(dir_main).joinpath('deck')
+
+    # create a dictionary of deck codes and file paths
+    deck_paths = {file.stem: str(file) for file in dir_deck_img.glob('*')}
+
+    # get the deck path for the given deck code
+    deck_path = deck_paths.get(deck_code)
+
+    # return the deck path, or None if the deck code is not found
+    return deck_path
+
 
 
 def search_card(card_name):
