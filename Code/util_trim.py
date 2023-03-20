@@ -32,9 +32,9 @@ def sort_pt(pts, sort_round):
         new_pt.append(new)
     return [x for _, x in sorted(zip(new_pt, ind_pt))]
 
-df = load_db(True)
+df = load_db(False)
 db_digit = np.asarray(df["Digit"])
-db_type = np.asarray(df["Type"])
+db_extra = np.asarray(df["Extra"])
 
 #######################################################
 
@@ -120,13 +120,13 @@ def trans_name(sort_digit, local):
         sort_name.append(str(name))
     return sort_name
 
-def trans_type(sort_digit):
-    sort_type = []
+def trans_extra(sort_digit):
+    sort_extra = []
     for digit in sort_digit:
         ind = np.where(db_digit == int(digit))[0][0]
-        types = db_type[ind]
-        sort_type.append(types)
-    return sort_type
+        extra = db_extra[ind]
+        sort_extra.append(extra)
+    return sort_extra
 
 def find_consecutive_bounds(lst, val):
     bounds = []
@@ -143,10 +143,10 @@ def find_consecutive_bounds(lst, val):
         bounds.append((start, len(lst)-1))
     return bounds
 
-def trans_paste(sort_name,sort_type,deck_code):
+def trans_paste(sort_name,sort_extra,deck_code):
     deck_list = list(sort_name)
     token_ext = '엑스트라'
-    if token_ext in sort_type:
+    if token_ext in sort_extra:
     #######################################################
         # cons_pat = find_consecutive_bounds(sort_name, token_ext) #check for chunks
         # if len(cons_pat) > 1:
@@ -155,8 +155,8 @@ def trans_paste(sort_name,sort_type,deck_code):
         #     cons_len = cons_pat[0][1] - cons_pat[0][0]
         #     print('good')
         #######################################################
-        extra_ind = sort_type.index(token_ext)
-        back_ind =  len(sort_type) - sort_type[::-1].index(token_ext) -1
+        extra_ind = sort_extra.index(token_ext)
+        back_ind =  len(sort_extra) - sort_extra[::-1].index(token_ext) -1
         extra_len = back_ind - extra_ind +1
         #######################################################
         if extra_len < 15: # extend gap between side deck in case shorter
